@@ -1,0 +1,5715 @@
+{
+  "book": "الأمثال",
+  "abbreviation": "Prov",
+  "number": 20,
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "امثال سليمان بن داود ملك اسرائيل.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "لمعرفة حكمة وأدب لادراك اقوال الفهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "لقبول تأديب المعرفة والعدل والحق والاستقامة.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "لتعطي الجهال ذكاء والشاب معرفة وتدبّرا.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "يسمعها الحكيم فيزداد علما والفهيم يكتسب تدبيرا.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "لفهم المثل واللغز اقوال الحكماء وغوامضهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "مخافة الرب راس المعرفة. اما الجاهلون فيحتقرون الحكمة والادب",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "اسمع يا ابني تأديب ابيك ولا ترفض شريعة امك.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "لانهما اكليل نعمة لراسك وقلائد لعنقك",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "يا ابني ان تملقك الخطاة فلا ترض.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "ان قالوا هلم معنا لنكمن للدم لنختف للبريء باطلا.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "لنبتلعهم احياء كالهاوية وصحاحا كالهابطين في الجب.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "فنجد كل قنية فاخرة نملأ بيوتنا غنيمة.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "تلقي قرعتك وسطنا. يكون لنا جميعا كيس واحد.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "يا ابني لا تسلك في الطريق معهم. امنع رجلك عن مسالكهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "لان ارجلهم تجري الى الشر وتسرع الى سفك الدم.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "لانه باطلا تنصب الشبكة في عيني كل ذي جناح.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "اما هم فيكمنون لدم انفسهم. يختفون لانفسهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "هكذا طرق كل مولع بكسب. يأخذ نفس مقتنيه",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "الحكمة تنادي في الخارج. في الشوارع تعطي صوتها.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "تدعو في رؤوس الاسواق في مداخل الابواب. في المدينة تبدي كلامها",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "قائلة الى متى ايها الجهال تحبون الجهل والمستهزئون يسرّون بالاستهزاء والحمقى يبغضون العلم.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "ارجعوا عند توبيخي. هانذا افيض لكم روحي. اعلمكم كلماتي",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "لاني دعوت فابيتم ومددت يدي وليس من يبالي",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "بل رفضتم كل مشورتي ولم ترضوا توبيخي",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "فانا ايضا اضحك عند بليتكم. اشمت عند مجيء خوفكم",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "اذا جاء خوفكم كعاصفة وأتت بليتكم كالزوبعة اذا جاءت عليكم شدة وضيق.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "حينئذ يدعونني فلا استجيب. يبكرون اليّ فلا يجدونني.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "لانهم ابغضوا العلم ولم يختاروا مخافة الرب.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "لم يرضوا مشورتي. رذلوا كل توبيخي.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "فلذلك ياكلون من ثمر طريقهم ويشبعون من مؤامراتهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "لان ارتداد الحمقى يقتلهم وراحة الجهال تبيدهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "اما المستمع لي فيسكن آمنا ويستريح من خوف الشر",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "يا ابني ان قبلت كلامي وخبأت وصاياي عندك",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "حتى تميل اذنك الى الحكمة وتعطّف قلبك على الفهم",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "ان دعوت المعرفة ورفعت صوتك الى الفهم",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "ان طلبتها كالفضة وبحثت عنها كالكنوز",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "فحينئذ تفهم مخافة الرب وتجد معرفة الله.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "لان الرب يعطي حكمة. من فمه المعرفة والفهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "يذخر معونة للمستقيمين. هو مجنّ للسالكين بالكمال.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "لنصر مسالك الحق وحفظ طريق اتقيائه.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "حينئذ تفهم العدل والحق والاستقامة. كل سبيل صالح",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "اذا دخلت الحكمة قلبك ولذّت المعرفة لنفسك",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "فالعقل يحفظك والفهم ينصرك",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "لانقاذك من طريق الشرير ومن الانسان المتكلم بالاكاذيب",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "التاركين سبل الاستقامة للسلوك في مسالك الظلمة",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "الفرحين بفعل السوء المبتهجين باكاذيب الشر",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "الذين طرقهم معوجة وهم ملتوون في سبلهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "لانقاذك من المرأة الاجنبية من الغريبة المتملقة بكلامها",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "التاركة اليف صباها والناسية عهد الهها.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "لان بيتها يسوخ الى الموت وسبلها الى الأخيلة.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "كل من دخل اليها لا يؤوب ولا يبلغون سبل الحياة.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "حتى تسلك في طريق الصالحين وتحفظ سبل الصديقين.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "لان المستقيمين يسكنون الارض والكاملين يبقون فيها.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "اما الاشرار فينقرضون من الارض والغادرون يستأصلون منها",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "يا ابني لا تنس شريعتي بل ليحفظ قلبك وصاياي.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "فانها تزيدك طول ايام وسني حياة وسلامة.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "لا تدع الرحمة والحق يتركانك. تقلدهما على عنقك. اكتبهما على لوح قلبك",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "فتجد نعمة وفطنة صالحة في اعين الله والناس",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "توكل على الرب بكل قلبك وعلى فهمك لا تعتمد.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "في كل طرقك اعرفه وهو يقوم سبلك",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "لا تكن حكيما في عيني نفسك. اتّق الرب وابعد عن الشر",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "فيكون شفاء لسرّتك وسقاء لعظامك.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "اكرم الرب من مالك ومن كل باكورات غلتك",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "فتمتلئ خزائنك شبعا وتفيض معاصرك مسطارا",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "يا ابني لا تحتقر تأديب الرب ولا تكره توبيخه.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "لان الذي يحبه الرب يؤدبه وكأب بابن يسرّ به",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "طوبى للانسان الذي يجد الحكمة وللرجل الذي ينال الفهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "لان تجارتها خير من تجارة الفضة وربحها خير من الذهب الخالص.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "هي اثمن من اللآلئ وكل جواهرك لا تساويها.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "في يمينها طول ايام وفي يسارها الغنى والمجد.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "طرقها طرق نعم وكل مسالكها سلام.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "هي شجرة حياة لممسكيها والمتمسك بها مغبوط.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "الرب بالحكمة اسس الارض. اثبت السموات بالفهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "بعلمه انشقت اللجج وتقطر السحاب ندى",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "يا ابني لا تبرح هذه من عينيك. احفظ الرأي والتدبير",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "فيكونا حياة لنفسك ونعمة لعنقك.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "حينئذ تسلك في طريقك آمنا ولا تعثر رجلك.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "اذا اضطجعت فلا تخاف بل تضطجع ويلذ نومك.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "لا تخش من خوف باغت ولا من خراب الاشرار اذا جاء.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "لان الرب يكون معتمدك ويصون رجلك من ان تؤخذ",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "لا تمنع الخير عن اهله حين يكون في طاقة يدك ان تفعله.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "لا تقل لصاحبك اذهب وعد فاعطيك غدا وموجود عندك.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "لا تخترع شرا على صاحبك وهو ساكن لديك آمنا.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "لا تخاصم انسانا بدون سبب. ان لم يكن قد صنع معك شرا",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "لا تحسد الظالم ولا تختر شيئا من طرقه.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "لان الملتوي رجس عند الرب. اما سره فعند المستقيمين.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "لعنة الرب في بيت الشرير لكنه يبارك مسكن الصديقين.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "كما انه يستهزئ بالمستهزئين هكذا يعطي نعمة للمتواضعين.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "الحكماء يرثون مجدا والحمقى يحملون هوانا",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "اسمعوا ايها البنون تأديب الاب واصغوا لاجل معرفة الفهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "لاني اعطيكم تعليما صالحا فلا تتركوا شريعتي.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "فاني كنت ابنا لابي غضّا ووحيدا عند امي.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "وكان يريني ويقول لي ليضبط قلبك كلامي. احفظ وصاياي فتحيا.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "اقتن الحكمة. اقتن الفهم. لا تنس ولا تعرض عن كلمات فمي.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "لا تتركها فتحفظك أحببها فتصونك.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "الحكمة هي الراس. فاقتن الحكمة وبكل مقتناك اقتن الفهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "ارفعها فتعلّيك. تمجدك اذا اعتنقتها.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "تعطي راسك اكليل نعمة. تاج جمال تمنحك",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "اسمع يا ابني واقبل اقوالي فتكثر سنو حياتك.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "اريتك طريق الحكمة. هديتك سبل الاستقامة.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "اذا سرت فلا تضيق خطواتك واذا سعيت فلا تعثر.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "تمسك بالأدب لا ترخه. احفظه فانه هو حياتك.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "لا تدخل في سبيل الاشرار ولا تسر في طريق الاثمة.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "تنكب عنه. لا تمر به. حد عنه واعبر.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "لانهم لا ينامون ان لم يفعلوا سوءا وينزع نومهم ان لم يسقطوا احدا.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "لانهم يطعمون خبز الشر ويشربون خمر الظلم.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "اما سبيل الصديقين فكنور مشرق يتزايد وينير الى النهار الكامل.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "اما طريق الاشرار فكالظلام. لا يعلمون ما يعثرون به",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "يابني اصغ الى كلامي. امل اذنك الى اقوالي.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "لا تبرح عن عينيك. احفظها في وسط قلبك.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "لانها هي حياة للذين يجدونها ودواء لكل الجسد.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "فوق كل تحفظ احفظ قلبك لان منه مخارج الحياة.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "انزع عنك التواء الفم وابعد عنك انحراف الشفتين.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "لتنظر عيناك الى قدامك واجفانك الى امامك مستقيما.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "مهد سبيل رجليك فتثبت كل طرقك.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "لا تمل يمنى ولا يسرة. باعد رجلك عن الشر",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "يا ابني اصغ الى حكمتي. امل اذنك الى فهمي",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "لحفظ التدابير ولتحفظ شفتاك معرفة.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "لان شفتي المرأة الاجنبية تقطران عسلا وحنكها انعم من الزيت.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "لكن عاقبتها مرة كالافسنتين حادة كسيف ذي حدين.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "قدماها تنحدران الى الموت. خطواتها تتمسك بالهاوية.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "لئلا تتأمل طريق الحياة تمايلت خطواتها ولا تشعر",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "والآن ايها البنون اسمعوا لي ولا ترتدوا عن كلمات فمي.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "ابعد طريقك عنها ولا تقرب الى باب بيتها.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "لئلا تعطي زهرك لآخرين وسنينك للقاسي.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "لئلا تشبع الاجانب من قوتك وتكون اتعابك في بيت غريب.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "فتنوح في اواخرك عند فناء لحمك وجسمك",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "فتقول كيف اني ابغضت الادب ورذل قلبي التوبيخ",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "ولم اسمع لصوت مرشدي ولم امل اذني الى معلميّ.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "لولا قليل لكنت في كل شر في وسط الزمرة والجماعة",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "اشرب مياها من جبك ومياها جارية من بئرك.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "لا تفض ينابيعك الى الخارج سواقي مياه في الشوارع.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "لتكن لك وحدك وليس لاجانب معك.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "ليكن ينبوعك مباركا وافرح بامرأة شبابك",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "الظبية المحبوبة والوعلة الزهية. ليروك ثدياها في كل وقت وبمحبتها اسكر دائما.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "فلم تفتن يا ابني باجنبية وتحتضن غريبة.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "لان طرق الانسان امام عيني الرب وهو يزن كل سبله.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "الشرير تأخذه آثامه وبحبال خطيته يمسك.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "انه يموت من عدم الادب وبفرط حمقه يتهور",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "يا ابني ان ضمنت صاحبك ان صفقت كفك لغريب",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ان علقت في كلام فمك ان اخذت في كلام فيك",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "اذا فافعل هذا يا ابني ونج نفسك اذا صرت في يد صاحبك. اذهب ترام والحّ على صاحبك.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "لا تعط عينيك نوما ولا اجفانك نعاسا.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "نج نفسك كالضبي من اليد كالعصفور من يد الصياد",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "اذهب الى النملة ايها الكسلان. تأمل طرقها وكن حكيما.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "التي ليس لها قائد او عريف او متسلط",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "وتعد في الصيف طعامها وتجمع في الحصاد اكلها.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "الى متى تنام ايها الكسلان. متى تنهض من نومك.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "قليل نوم بعد قليل نعاس وطي اليدين قليلا للرقود.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "فياتي فقرك كساع وعوزك كغاز",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "الرجل اللئيم الرجل الاثيم يسعى باعوجاج الفم.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "يغمز بعينيه يقول برجله يشير باصابعه.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "في قلبه اكاذيب. يخترع الشر في كل حين. يزرع خصومات.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "لاجل ذلك بغتة تفاجئه بليته. في لحظة ينكسر ولا شفاء",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "هذه الستة يبغضها الرب وسبعة هي مكرهة نفسه.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "عيون متعالية لسان كاذب ايد سافكة دما بريئا",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "قلب ينشئ افكارا رديئة ارجل سريعة الجريان الى السوء",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "شاهد زور يفوه بالاكاذيب وزارع خصومات بين اخوة",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "يا ابني احفظ وصايا ابيك ولا تترك شريعة امك.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "اربطها على قلبك دائما. قلّد بها عنقك.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "اذا ذهبت تهديك. اذا نمت تحرسك واذا استيقظت فهي تحدّثك.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "لان الوصية مصباح والشريعة نور وتوبيخات الادب طريق الحياة.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "لحفظك من المرأة الشريرة من ملق لسان الاجنبية.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "لا تشتهين جمالها بقلبك ولا تأخذك بهدبها.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "لانه بسبب امرأة زانية يفتقر المرء الى رغيف خبز وامرأة رجل آخر تقتنص النفس الكريمة.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "أيأخذ انسان نارا في حضنه ولا تحترق ثيابه.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "او يمشي انسان على الجمر ولا تكتوي رجلاه.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "هكذا من يدخل على امرأة صاحبه. كل من يمسّها لا يكون بريئا.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "لا يستخفون بالسارق ولو سرق ليشبع نفسه وهو جوعان.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "ان وجد يرد سبعة اضعاف ويعطي كل قنية بيته.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "اما الزاني بامرأة فعديم العقل. المهلك نفسه هو يفعله.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "ضربا وخزيا يجد وعاره لا يمحى.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "لان الغيرة هي حمية الرجل فلا يشفق في يوم الانتقام.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "لا ينظر الى فدية ما ولا يرضى ولو اكثرت الرشوة",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "يا ابني احفظ كلامي واذخر وصاياي عندك.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "احفظ وصاياي فتحيا وشريعتي كحدقة عينك.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "اربطها على اصابعك اكتبها على لوح قلبك.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "قل للحكمة انت اختي وادع الفهم ذا قرابة.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "لتحفظك من المرأة الاجنبية من الغريبة الملقة بكلامها",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "لاني من كوة بيتي من وراء شباكي تطلعت",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "فرايت بين الجهال لاحظت بين البنين غلاما عديم الفهم",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "عابرا في الشارع عند زاويتها وصاعدا في طريق بيتها",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "في العشاء في مساء اليوم في حدقة الليل والظلام.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "واذ بامرأة استقبلته في زي زانية وخبيثة القلب.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "صخّابة هي وجامحة. في بيتها لا تستقر قدماها.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "تارة في الخارج واخرى في الشوارع. وعند كل زاوية تكمن.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "فامسكته وقبّلته. اوقحت وجهها وقالت له",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "عليّ ذبائح السلامة. اليوم اوفيت نذوري.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "فلذلك خرجت للقائك لاطلب وجهك حتى اجدك.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "بالديباج فرشت سريري بموشّى كتان من مصر.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "عطرت فراشي بمرّ وعود وقرفة.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "هلم نرتو ودّا الى الصباح. نتلذذ بالحب.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "لان الرجل ليس في البيت. ذهب في طريق بعيدة.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "اخذ صرّة الفضة بيده. يوم الهلال ياتي الى بيته.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "اغوته بكثرة فنونها بملث شفتيها طوحته.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "ذهب وراءها لوقته كثور يذهب الى الذبح او كالغبي الى قيد القصاص",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "حتى يشق سهم كبده. كطير يسرع الى الفخ ولا يدري انه لنفسه",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "والآن ايها الابناء اسمعوا لي واصغوا لكلمات فمي.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "لا يمل قلبك الى طرقها ولا تشرد في مسالكها.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "لانها طرحت كثيرين جرحى وكل قتلاها اقوياء.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "طرق الهاوية بيتها هابطة الى خدور الموت",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "ألعل الحكمة لا تنادي والفهم ألا يعطي صوته.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "عند رؤوس الشواهق عند الطريق بين المسالك تقف.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "بجانب الابواب عند ثغر المدينة عند مدخل الابواب تصرّح.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "لكم ايها الناس انادي وصوتي الى بني آدم.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "ايها الحمقى تعلموا ذكاء ويا جهال تعلموا فهما.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "اسمعوا فاني اتكلم بامور شريفة وافتتاح شفتيّ استقامة.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "لان حنكي يلهج بالصدق ومكرهة شفتيّ الكذب.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "كل كلمات فمي بالحق. ليس فيها عوج ولا التواء.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "كلها واضحة لدى الفهيم ومستقيمة لدى الذين يجدون المعرفة.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "خذوا تاديبي لا الفضة. والمعرفة اكثر من الذهب المختار.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "لان الحكمة خير من اللآلئ وكل الجواهر لا تساويها",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "انا الحكمة اسكن الذكاء واجد معرفة التدابير.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "مخافة الرب بغض الشر. الكبرياء والتعظم وطريق الشر وفم الاكاذيب ابغضت.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "لي المشورة والرأي. انا الفهم. لي القدرة.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "بي تملك الملوك وتقضي العظماء عدلا.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "بي تترأس الرؤساء والشرفاء. كل قضاة الارض.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "انا احب الذين يحبونني والذين يبكّرون اليّ يجدونني.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "عندي الغنى والكرامة. قنية فاخرة وحظ.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "ثمري خير من الذهب ومن الابريز وغلتي خير من الفضة المختارة.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "في طريق العدل اتمشى في وسط سبل الحق",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "فاورّث محبيّ رزقا واملأ خزائنهم",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "الرب قناني اول طريقه من قبل اعماله منذ القدم.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "منذ الازل مسحت منذ البدء منذ اوائل الارض.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "اذ لم يكن غمر أبدئت اذ لم تكن ينابيع كثيرة المياه.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "من قبل ان تقررت الجبال قبل التلال أبدئت.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "اذ لم يكن قد صنع الارض بعد ولا البراري ولا اول اعفار المسكونة.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "لما ثبت السموات كنت هناك انا. لما رسم دائرة على وجه الغمر.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "لما اثبت السحب من فوق لما تشددت ينابيع الغمر.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "لما وضع للبحر حده فلا تتعدى المياه تخمه لما رسم أسس الارض.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "كنت عنده صانعا وكنت كل يوم لذّته فرحة دائما قدامه.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "فرحة في مسكونة ارضه ولذّاتي مع بني آدم",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "فالآن ايها البنون اسمعوا لي. فطوبى للذين يحفظون طرقي.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "اسمعوا التعليم وكونوا حكماء ولا ترفضوه.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "طوبى للانسان الذي يسمع لي ساهرا كل يوم عند مصاريعي حافظا قوائم ابوابي.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "لانه من يجدني يجد الحياة وينال رضى من الرب.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "ومن يخطئ عني يضر نفسه. كل مبغضي يحبون الموت",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "الحكمة بنت بيتها. نحتت اعمدتها السبعة.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ذبحت ذبحها مزجت خمرها. ايضا رتبت مائدتها.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "ارسلت جواريها تنادي على ظهور اعالي المدينة.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "من هو جاهل فليمل الى هنا. والناقص الفهم قالت له",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "هلموا كلوا من طعامي واشربوا من الخمر التي مزجتها.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "اتركوا الجهالات فتحيوا وسيروا في طريق الفهم",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "من يوبخ مستهزئا يكسب لنفسه هوانا ومن ينذر شريرا يكسب عيبا.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "لا توبخ مستهزئا لئلا يبغضك. وبخ حكيما فيحبك.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "اعط حكيما فيكون اوفر حكمة. علّم صدّيقا فيزداد علما.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "بدء الحكمة مخافة الرب ومعرفة القدوس فهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "لانه بي تكثر ايامك وتزداد لك سنو حياة.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "ان كنت حكيما فانت حكيم لنفسك وان استهزأت فانت وحدك تتحمل",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "المرأة الجاهلة صخّابة حمقاء ولا تدري شيئا.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "فتقعد عند باب بيتها على كرسي في اعالي المدينة",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "لتنادي عابري السبيل المقوّمين طرقهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "من هو جاهل فليمل الى هنا. والناقص الفهم تقول له",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "المياه المسروقة حلوة وخبز الخفية لذيذ.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "ولا يعلم ان الاخيلة هناك وان في اعماق الهاوية ضيوفها",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "امثال سليمان-الابن الحكيم يسرّ اباه والابن الجاهل حزن امه.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "كنوز الشر لا تنفع. اما البر فينجي من الموت.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "الرب لا يجيع نفس الصدّيق ولكنه يدفع هوى الاشرار.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "العامل بيد رخوة يفتقر. اما يد المجتهدين فتغني.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "من يجمع في الصيف فهو ابن عاقل ومن ينام في الحصاد فهو ابن مخز",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "بركات على راس الصدّيق. اما فم الاشرار فيغشاه ظلم.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "ذكر الصدّيق للبركة واسم الاشرار ينخر.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "حكيم القلب يقبل الوصايا وغبي الشفتين يصرع.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "من يسلك بالاستقامة يسلك بالامان ومن يعوج طرقه يعرّف.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "من يغمز بالعين يسبب حزنا والغبي الشفتين يصرع",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "فم الصدّيق ينبوع حياة وفم الاشرار يغشاه ظلم.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "البغضة تهيج خصومات والمحبة تستر كل الذنوب.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "في شفتي العاقل توجد حكمة. والعصا لظهر الناقص الفهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "الحكماء يذخرون معرفة. اما فم الغبي فهلاك قريب.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "ثروة الغني مدينته الحصينة هلاك المساكين فقرهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "عمل الصديق للحياة. ربح الشرير للخطية.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "حافظ التعليم هو في طريق الحياة ورافض التأديب ضال.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "من يخفي البغضة فشفتاه كاذبتان ومشيع المذمة هو جاهل.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "كثرة الكلام لا تخلو من معصية. اما الضابط شفتيه فعاقل.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "لسان الصدّيق فضة مختارة. قلب الاشرار كشيء زهيد.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "شفتا الصدّيق تهديان كثيرين. اما الاغبياء فيموتون من نقص الفهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "بركة الرب هي تغني ولا يزيد معها تعبا.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "فعل الرذيلة عند الجاهل كالضحك. اما الحكمة فلذي فهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "خوف الشرير هو يأتيه وشهوة الصدّيقين تمنح.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "كعبور الزوبعة فلا يكون الشرير. اما الصدّيق فاساس مؤبّد.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "كالخل للاسنان وكالدخان للعينين كذلك الكسلان للذين ارسلوه.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "مخافة الرب تزيد الايام. اما سنو الاشرار فتقصر.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "منتظر الصدّيقين مفرح. اما رجاء الاشرار فيبيد.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "حصن للاستقامة طريق الرب. والهلاك لفاعلي الاثم.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "الصدّيق لن يزحزح ابدا والاشرار لن يسكنوا الارض.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "فم الصدّيق ينبت الحكمة. اما لسان الاكاذيب فيقطع.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "شفتا الصدّيق تعرفان المرضي وفم الاشرار اكاذيب",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "موازين غش مكرهة الرب والوزن الصحيح رضاه.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "تأتي الكبرياء فيأتي الهوان. ومع المتواضعين حكمة.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "استقامة المستقيمين تهديهم واعوجاج الغادرين يخربهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "لا ينفع الغنى في يوم السخط. اما البر فينجي من الموت.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "بر الكامل يقوّم طريقه. اما الشرير فيسقط بشرّه.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "بر المستقيمين ينجيهم اما الغادرون فيؤخذون بفسادهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "عند موت انسان شرير يهلك رجاؤه ومنتظر الاثمة يبيد.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "الصدّيق ينجو من الضيق ويأتي الشرير مكانه.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "بالفم يخرب المنافق صاحبه وبالمعرفة ينجو الصدّيقون.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "بخير الصدّيقين تفرح المدينة وعند هلاك الاشرار هتاف.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "ببركة المستقيمين تعلو المدينة وبفم الاشرار تهدم",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "المحتقر صاحبه هو ناقص الفهم. اما ذو الفهم فيسكت.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "الساعي بالوشاية يفشي السر والامين الروح يكتم الامر.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "حيث لا تدبير يسقط الشعب. اما الخلاص فبكثرة المشيرين.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "ضررا يضر من يضمن غريبا. ومن يبغض صفق الايدي مطمئن.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "المرأة ذات النعمة تحصّل كرامة والاشدّاء يحصّلون غنى.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "الرجل الرحيم يحسن الى نفسه والقاسي يكدر لحمه.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "الشرير يكسب اجرة غش والزارع البر اجرة امانة.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "كما ان البر يؤول الى الحياة كذلك من يتبع الشر فالى موته.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "كراهة الرب ملتوو القلب ورضاه مستقيمو الطريق.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "يد ليد لا يتبرر الشرير. اما نسل الصدّيقين فينجو.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "خزامة ذهب في فنطيسة خنزيرة المرأة الجميلة العديمة العقل.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "شهوة الابرار خير فقط. رجاء الاشرار سخط.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "يوجد من يفرق فيزداد ايضا ومن يمسك اكثر من اللائق وانما الى الفقر.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "النفس السخية تسمّن والمروي هو ايضا يروى.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "محتكر الحنطة يلعنه الشعب والبركة على راس البائع.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "من يطلب الخير يلتمس الرضا ومن يطلب الشر فالشر ياتيه.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "من يتكل على غناه يسقط. اما الصديقون فيزهون كالورق.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "من يكدر بيته يرث الريح والغبي خادم لحكيم القلب.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "ثمر الصدّيق شجرة حياة ورابح النفوس حكيم.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "هوذا الصدّيق يجازى في الارض فكم بالحري الشرير والخاطئ",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "من يحب التأديب يحب المعرفة ومن يبغض التوبيخ فهو بليد.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "الصالح ينال رضى من قبل الرب اما رجل المكايد فيحكم عليه.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "لا يثبت الانسان بالشر. اما اصل الصدّيقين فلا يتقلقل.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "المرأة الفاضلة تاج لبعلها. اما المخزية فكنخر في عظامه.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "افكار الصدّيقين عدل. تدابير الاشرار غش.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "كلام الاشرار كمون للدم اما فم المستقيمين فينجيهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "تنقلب الاشرار ولا يكونون. اما بيت الصدّيقين فيثبت.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "بحسب فطنته يحمد الانسان. اما الملتوي القلب فيكون للهوان.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "الحقير وله عبد خير من المتمجد ويعوزه الخبز.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "الصدّيق يراعي نفس بهيمته. اما مراحم الاشرار فقاسية.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "من يشتغل بحقله يشبع خبزا. اما تابع البطّالين فهو عديم الفهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "اشتهى الشرير صيد الاشرار واصل الصدّيقين يجدي.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "في معصية الشفتين شرك الشرير. اما الصدّيق فيخرج من الضيق.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "الانسان يشبع خيرا من ثمر فمه ومكافأة يدي الانسان ترد له.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "طريق الجاهل مستقيم في عينيه. اما سامع المشورة فهو حكيم.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "غضب الجاهل يعرف في يومه. اما ساتر الهوان فهو ذكي.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "من يتفوه بالحق يظهر العدل والشاهد الكاذب يظهر غشا.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "يوجد من يهذر مثل طعن السيف. اما لسان الحكماء فشفاء.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "شفة الصدّيق تثبت الى الابد ولسان الكذب انما هو الى طرفة العين.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "الغش في قلب الذين يفكرون في الشر اما المشيرون بالسلام فلهم فرح",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "لا يصيب الصدّيق شر. اما الاشرار فيمتلئون سوءا.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "كراهة الرب شفتا كذب. اما العاملون بالصدق فرضاه",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "الرجل الذكي يستر المعرفة. وقلب الجاهل ينادي بالحمق.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "يد المجتهدين تسود. اما الرخوة فتكون تحت الجزية.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "الغم في قلب الرجل يحنيه والكلمة الطيبة تفرّحه.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "الصدّيق يهدي صاحبه. اما طريق الاشرار فتضلهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "الرخاوة لا تمسك صيدا. اما ثروة الانسان الكريمة فهي الاجتهاد.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "في سبيل البر حياة وفي طريق مسلكه لا موت.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "الابن الحكيم يقبل تأديب ابيه والمستهزئ لا يسمع انتهارا.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "من ثمرة فمه ياكل الانسان خيرا ومرام الغادرين ظلم.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "من يحفظ فمه يحفظ نفسه. ومن يشحر شفتيه فله هلاك.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "نفس الكسلان تشتهي ولا شيء لها ونفس المجتهدين تسمن.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "الصدّيق يبغض كلام كذب والشرير يخزي ويخجل.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "البر يحفظ الكامل طريقه والشر يقلب الخاطئ.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "يوجد من يتغانى ولا شيء عنده ومن يتفاقر وعنده غنى جزيل.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "فدية نفس رجل غناه. اما الفقير فلا يسمع انتهارا.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "نور الصدّيقين يفرح وسراج الاشرار ينطفئ.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "الخصام انما يصير بالكبرياء ومع المتشاورين حكمة.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "غنى البطل يقل والجامع بيده يزداد.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "الرجاء المماطل يمرض القلب والشهوة المتممة شجرة حياة.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "من ازدرى بالكلمة يخرب نفسه ومن خشي الوصية يكافأ.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "شريعة الحكيم ينبوع حياة للحيدان عن اشراك الموت.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "الفطنة الجيدة تمنح نعمة. اما طريق الغادرين فاوعر.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "كل ذكي يعمل بالمعرفة والجاهل ينشر حمقا.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "الرسول الشرير يقع في الشر والسفير الامين شفاء.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "فقر وهوان لمن يرفض التأديب. ومن يلاحظ التوبيخ يكرم.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "الشهوة الحاصلة تلذ النفس. اما كراهة الجهال فهي الحيدان عن الشر",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "المساير الحكماء يصير حكيما ورفيق الجهال يضر.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "الشر يتبع الخاطئين والصدّيقون يجازون خيرا.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "الصالح يورث بني البنين وثروة الخاطئ تذخر للصدّيق.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "في حرث الفقراء طعام كثير ويوجد هالك من عدم الحق.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "من يمنع عصاه يمقت ابنه ومن احبه يطلب له التأديب.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "الصدّيق يأكل لشبع نفسه. اما بطن الاشرار فيحتاج",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "حكمة المرأة تبني بيتها والحماقة تهدمه بيدها.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "السالك باستقامته يتقي الرب والمعوج طرقه يحتقره.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "في فم الجاهل قضيب لكبريائه. اما شفاه الحكماء فتحفظهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "حيث لا بقر فالمعلف فارغ. وكثرة الغلة بقوة الثور.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "الشاهد الامين لن يكذب والشاهد الزور يتفوه بالاكاذيب.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "المستهزئ يطلب الحكمة ولا يجدها. والمعرفة هينة للفهيم.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "اذهب من قدام رجل جاهل اذ لا تشعر بشفتي معرفة.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "حكمة الذكي فهم طريقه وغباوة الجهال غش.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "الجهال يستهزئون بالاثم. وبين المستقيمين رضى.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "القلب يعرف مرارة نفسه. وبفرحه لا يشاركه غريب",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "بيت الاشرار يخرب وخيمة المستقيمين تزهر.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "توجد طريق تظهر للانسان مستقيمة وعاقبتها طرق الموت.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "ايضا في الضحك يكتئب القلب وعاقبة الفرح حزن.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "المرتد في القلب يشبع من طرقه والرجل الصالح مما عنده.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "الغبي يصدق كل كلمة والذكي ينتبه الى خطواته.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "الحكيم يخشى ويحيد عن الشر والجاهل يتصلف ويثق.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "السريع الغضب يعمل بالحمق وذو المكايد يشنأ.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "الاغبياء يرثون الحماقة والاذكياء يتوجون بالمعرفة.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "الاشرار ينحنون امام الاخيار والاثمة لدى ابواب الصدّيق.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "ايضا من قريبه يبغض الفقير ومحبو الغني كثيرون.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "من يحتقر قريبه يخطئ ومن يرحم المساكين فطوبى له",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "اما يضل مخترعو الشر. اما الرحمة والحق فيهديان مخترعي الخير",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "في كل تعب منفعة. وكلام الشفتين انما هو الى الفقر.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "تاج الحكماء غناهم. تقدم الجهال حماقة.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "الشاهد الامين منجي النفوس. ومن يتفوه بالاكاذيب فغش.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "في مخافة الرب ثقة شديدة ويكون لبنيه ملجأ.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "مخافة الرب ينبوع حياة للحيدان عن اشراك الموت.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "في كثرة الشعب زينة الملك. وفي عدم القوم هلاك الامير.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "بطيء الغضب كثير الفهم. وقصير الروح معلي الحمق.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "حياة الجسد هدوء القلب ونخر العظام الحسد.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "ظالم الفقير يعير خالقه ويمجده راحم المسكين.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "الشرير يطرد بشره. اما الصدّيق فواثق عند موته.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "في قلب الفهيم تستقر الحكمة وما في داخل الجهال يعرف.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "البر يرفع شان الامة وعار الشعوب الخطية.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "رضوان الملك على العبد الفطن وسخطه يكون على المخزي",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "الجواب الليّن يصرف الغضب والكلام الموجع يهيج السخط.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "لسان الحكماء يحسن المعرفة وفم الجهال ينبع حماقة.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "في كل مكان عينا الرب مراقبتين الطالحين والصالحين.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "هدوء اللسان شجرة حياة واعوجاجه سحق في الروح.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "الاحمق يستهين بتأديب ابيه اما مراعي التوبيخ فيذكى.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "في بيت الصدّيق كنز عظيم وفي دخل الاشرار كدر.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "شفاه الحكماء تذر معرفة. اما قلب الجهال فليس كذلك",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "ذبيحة الاشرار مكرهة الرب وصلاة المستقيمين مرضاته.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "مكرهة الرب طريق الشرير. وتابع البر يحبه.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "تأديب شر لتارك الطريق. مبغض التوبيخ يموت.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "الهاوية والهلاك امام الرب. كم بالحري قلوب بني آدم.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "المستهزئ لا يحب موبخه. الى الحكماء لا يذهب.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "القلب الفرحان يجعل الوجه طلقا وبحزن القلب تنسحق الروح.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "قلب الفهيم يطلب معرفة وفم الجهال يرعى حماقة.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "كل ايام الحزين شقية. اما طيب القلب فوليمة دائمة.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "القليل مع مخافة الرب خير من كنز عظيم مع همّ.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "اكلة من البقول حيث تكون المحبة خير من ثور معلوف ومعه بغضة.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "الرجل الغضوب يهيج الخصومة وبطيء الغضب يسكّن الخصام.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "طريق الكسلان كسياج من شوك وطريق المستقيمين منهج.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "الابن الحكيم يسرّ اباه والرجل الجاهل يحتقر امه.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "الحماقة فرح لناقص الفهم. اما ذو الفهم فيقوّم سلوكه.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "مقاصد بغير مشورة تبطل وبكثرة المشيرين تقوم.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "للانسان فرح بجواب فمه والكلمة في وقتها ما احسنها.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "طريق الحياة للفطن الى فوق للحيدان عن الهاوية من تحت.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "الرب يقلع بيت المتكبرين ويوطد تخم الارملة.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "مكرهة الرب افكار الشرير وللاطهار كلام حسن.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "المولع بالكسب يكدر بيته. والكاره الهدايا يعيش.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "قلب الصدّيق يتفكر بالجواب وفم الاشرار ينبع شرورا",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "الرب بعيد عن الاشرار ويسمع صلاة الصدّيقين.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "نور العينين يفرّح القلب. الخبر الطيب يسمن العظام.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "الاذن السامعة توبيخ الحياة تستقر بين الحكماء.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "من يرفض التأديب يرذل نفسه ومن يسمع للتوبيخ يقتني فهما.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "مخافة الرب ادب وحكمة وقبل الكرامة التواضع",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "للانسان تدابير القلب ومن الرب جواب اللسان.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "كل طرق الانسان نقية في عيني نفسه. والرب وازن الارواح.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "الق على الرب اعمالك فتثبت افكارك.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "الرب صنع الكل لغرضه والشرير ايضا ليوم الشر.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "مكرهة الرب كل متشامخ القلب. يدا ليد لا يتبرأ.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "بالرحمة والحق يستر الاثم وفي مخافة الرب الحيدان عن الشر.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "اذا ارضت الرب طرق انسان جعل اعداءه ايضا يسالمونه.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "القليل مع العدل خير من دخل جزيل بغير حق.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "قلب الانسان يفكر في طريقه والرب يهدي خطوته.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "في شفتي الملك وحي. في القضاء فمه لا يخون",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "قبّان الحق وموازينه للرب. كل معايير الكيس عمله.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "مكرهة الملوك فعل الشر لان الكرسي يثبت بالبر.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "مرضاة الملوك شفتا حق والمتكلم بالمستقيمات يحب.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "غضب الملك رسل الموت والانسان الحكيم يستعطفه.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "في نور وجه الملك حياة ورضاه كسحاب المطر المتأخر.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "قنية الحكمة كم هي خير من الذهب وقنية الفهم تختار على الفضة.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "منهج المستقيمين الحيدان عن الشر. حافظ نفسه حافظ طريقه",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "قبل الكسر الكبرياء وقبل السقوط تشامخ الروح.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "تواضع الروح مع الودعاء خير من قسم الغنيمة مع المتكبرين.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "الفطن من جهة امر يجد خيرا. ومن يتكل على الرب فطوبى له.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "حكيم القلب يدعى فهيما وحلاوة الشفتين تزيد علما.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "الفطنة ينبوع حياة لصاحبها وتأديب الحمقى حماقة.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "قلب الحكيم يرشد فمه ويزيد شفتيه علما.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "الكلام الحسن شهد عسل حلو للنفس وشفاء للعظام.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "توجد طريق تظهر للانسان مستقيمة وعاقبتها طرق الموت.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "نفس التعب تتعب له لان فمه يحثّه.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "الرجل اللئيم ينبش الشر وعلى شفتيه كالنار المتقدة.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "رجل الاكاذيب يطلق الخصومة والنمّام يفرّق الاصدقاء.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "الرجل الظالم يغوي صاحبه ويسوقه الى طريق غير صالحة.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "من يغمض عينيه ليفكر في الاكاذيب ومن يعض شفتيه فقد اكمل شرا.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "تاج جمال شيبة توجد في طريق البر.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "البطيء الغضب خير من الجبار ومالك روحه خير ممن يأخذ مدينة.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "القرعة تلقى في الحضن ومن الرب كل حكمها",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "لقمة يابسة ومعها سلامة خير من بيت ملآن ذبائح مع خصام.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "العبد الفطن يتسلط على الابن المخزي ويقاسم الاخوة الميراث.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "البوطة للفضة والكور للذهب وممتحن القلوب الرب.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "الفاعل الشر يصغى الى شفة الاثم والكاذب يأذن للسان فساد.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "المستهزئ بالفقير يعيّر خالقه. الفرحان ببلية لا يتبرأ.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "تاج الشيوخ بنو البنين وفخر البنين آباؤهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "لا تليق بالاحمق شفة السودد. كم بالاحرى شفة الكذب بالشريف.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "الهدية حجر كريم في عيني قابلها. حيثما تتوجه تفلح.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "من يستر معصية يطلب المحبة ومن يكرر أمرا يفرق بين الاصدقاء",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "الانتهار يؤثر في الحكيم اكثر من مئة جلدة في الجاهل.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "الشرير انما يطلب التمرد فيطلق عليه رسول قاس.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "ليصادف الانسان دبة ثكول ولا جاهل في حماقته.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "من يجازي عن خير بشر لن يبرح الشر من بيته.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "ابتداء الخصام اطلاق الماء. فقبل ان تدفق المخاصمة اتركها.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "مبرّئ المذنب ومذنّب البريء كلاهما مكرهة الرب.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "لماذا في يد الجاهل ثمن. ألاقتناء الحكمة وليس له فهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "الصدّيق يحب في كل وقت. اما الاخ فللشدة يولد.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "الانسان الناقص الفهم يصفق كفا ويضمن صاحبه ضمانا.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "محب المعصية محب الخصام. المعلي بابه يطلب الكسر.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "الملتوي القلب لا يجد خيرا والمتقلب اللسان يقع في السوء.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "من يلد جاهلا فلحزنه. ولا يفرح ابو الاحمق.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "القلب الفرحان يطيّب الجسم والروح المنسحقة تجفف العظم.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "الشرير يأخذ الرشوة من الحضن ليعوّج طرق القضاء.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "الحكمة عند الفهيم وعينا الجاهل في اقصى الارض.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "الابن الجاهل غم لابيه ومرارة للتي ولدته.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "ايضا تغريم البريء ليس بحسن وكذلك ضرب الشرفاء لاجل الاستقامة.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "ذو المعرفة يبقي كلامه وذو الفهم وقور الروح.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "بل الاحمق اذا سكت يحسب حكيما ومن ضم شفتيه فهيما",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "المعتزل يطلب شهوته. بكل مشورة يغتاظ.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "الجاهل لا يسرّ بالفهم بل بكشف قلبه.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "اذا جاء الشرير جاء الاحتقار ايضا ومع الهوان عار.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "كلمات فم الانسان مياه عميقة. نبع الحكمة نهر مندفق.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "رفع وجه الشرير ليس حسنا لاخطاء الصدّيق في القضاء.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "شفتا الجاهل تداخلان في الخصومة وفمه يدعو بضربات.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "فم الجاهل مهلكة له وشفتاه شرك لنفسه.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "كلام النمّام مثل لقم حلوة وهو ينزل الى مخادع البطن.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "ايضا المتراخي في عمله هو اخو المسرف",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "اسم الرب برج حصين. يركض اليه الصدّيق ويتمنّع.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "ثروة الغني مدينته الحصينة ومثل سور عال في تصوره.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "قبل الكسر يتكبر قلب الانسان وقبل الكرامة التواضع.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "من يجيب عن امر قبل ان يسمعه فله حماقة وعار.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "روح الانسان تحتمل مرضه. اما الروح المكسورة فمن يحملها.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "قلب الفهيم يقتني معرفة واذن الحكماء تطلب علما.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "هدية الانسان ترحب له وتهديه الى امام العظماء.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "الاول في دعواه محق. فياتي رفيقه ويفحصه.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "القرعة تبطل الخصومات وتفصل بين الاقوياء.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "الاخ امنع من مدينة حصينة والمخاصمات كعارضة قلعة",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "من ثمر فم الانسان يشبع بطنه. من غلة شفتيه يشبع.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "الموت والحياة في يد اللسان واحباؤه ياكلون ثمره.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "من يجد زوجة يجد خيرا وينال رضى من الرب.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "بتضرعات يتكلم الفقير. والغني يجاوب بخشونة.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "المكثر الاصحاب يخرب نفسه. ولكن يوجد محب ألزق من الاخ",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "الفقير السالك بكماله خير من ملتوي الشفتين وهو جاهل.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ايضا كون النفس بلا معرفة ليس حسنا والمستعجل برجليه يخطأ.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "حماقة الرجل تعوّج طريقه وعلى الرب يحنق قلبه.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "الغنى يكثر الاصحاب والفقير منفصل عن قريبه.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "شاهد الزور لا يتبرأ والمتكلم بالاكاذيب لا ينجو.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "كثيرون يستعطفون وجه الشريف وكلّ صاحب لذي العطايا.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "كل اخوة الفقير يبغضونه. فكم بالحري اصدقاؤه يبتعدون عنه. من يتبع اقوالا فهي له.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "المقتني الحكمة يحب نفسه. الحافظ الفهم يجد خيرا.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "شاهد الزور لا يتبرأ والمتكلم بالاكاذيب يهلك.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "التنعم لا يليق بالجاهل كم بالاولى لا يليق بالعبد ان يتسلط على الرؤساء",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "تعقل الانسان يبطئ غضبه وفخره الصفح عن معصية.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "كزمجرة الاسد حنق الملك وكالطل على العشب رضوانه.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "الابن الجاهل مصيبة على ابيه ومخاصمات الزوجة كالوكف المتتابع.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "البيت والثروة ميراث من الآباء. اما الزوجة المتعقلة فمن عند الرب.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "الكسل يلقي في السبات والنفس المتراخية تجوع.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "حافظ الوصية حافظ نفسه والمتهاون بطرقه يموت.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "من يرحم الفقير يقرض الرب وعن معروفه يجازيه.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "ادّب ابنك لان فيه رجاء ولكن على اماتته لا تحمل نفسك.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "الشديد الغضب يحمل عقوبة لانك اذا نجيته فبعد تعيد.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "اسمع المشورة واقبل التأديب لكي تكون حكيما في آخرتك.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "في قلب الانسان افكار كثيرة لكن مشورة الرب هي تثبت.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "زينة الانسان معروفه والفقير خير من الكذوب",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "مخافة الرب للحياة. يبيت شبعان لا يتعهده شر.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "الكسلان يخفي يده في الصحفة وايضا الى فمه لا يردها.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "اضرب المستهزئ فيتذكى الاحمق ووبخ فهيما فيفهم معرفة.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "المخرب اباه والطارد امه هو ابن مخز ومخجل.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "كف يا ابني عن استماع التعليم للضلالة عن كلام المعرفة.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "الشاهد اللئيم يستهزئ بالحق وفم الاشرار يبلع الاثم.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "القصاص معد للمستهزئين والضرب لظهر الجهال",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "الخمر مستهزئة. المسكر عجاج ومن يترنح بهما فليس بحكيم.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "رعب الملك كزمجرة الاسد. الذي يغيظه يخطئ الى نفسه.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "مجد الرجل ان يبتعد عن الخصام وكل احمق ينازع.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "الكسلان لا يحرث بسبب الشتاء فيستعطي في الحصاد ولا يعطى.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "المشورة في قلب الرجل مياه عميقة وذو الفطنة يستقيها.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "اكثر الناس ينادون كل واحد بصلاحه اما الرجل الامين فمن يجده.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "الصدّيق يسلك بكماله. طوبى لبنيه بعده.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "الملك الجالس على كرسي القضاء يذري بعينه كل شر.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "من يقول اني زكيت قلبي تطهرت من خطيتي",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "معيار فمعيار مكيال فمكيال كلاهما مكرهة عند الرب.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "الولد ايضا يعرف بافعاله هل عمله نقي ومستقيم.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "الاذن السامعة والعين الباصرة الرب صنعهما كلتيهما.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "لا تحب النوم لئلا تفتقر. افتح عينيك تشبع خبزا.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "رديء رديء يقول المشتري واذا ذهب فحينئذ يفتخر.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "يوجد ذهب وكثرة لآلئ. اما شفاه المعرفة فمتاع ثمين.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "خذ ثوبه لانه ضمن غريبا ولاجل الاجانب ارتهن منه.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "خبز الكذب لذيذ للانسان ومن بعد يمتلئ فمه حصى.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "المقاصد تثبت بالمشورة وبالتدابير اعمل حربا.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "الساعي بالوشاية يفشي السر. فلا تخالط المفتّح شفتيه.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "من سبّ اباه او امه ينطفئ سراجه في حدقة الظلام",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "ربّ ملك معجل في اوله. اما آخرته فلا تبارك.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "لا تقل اني اجازي شرا. انتظر الرب فيخلّصك.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "معيار فمعيار مكرهة الرب. وموازين الغش غير صالحة.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "من الرب خطوات الرجل. اما الانسان فكيف يفهم طريقه.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "هو شرك للانسان ان يلغو قائلا مقدس وبعد النذر ان يسأل.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "الملك الحكيم يشتت الاشرار ويرد عليهم النورج.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "نفس الانسان سراج الرب. يفتش كل مخادع البطن.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "الرحمة والحق يحفظان الملك وكرسيه يسند بالرحمة.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "فخر الشبان قوتهم وبهاء الشيوخ الشيب.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "حبر جرح منقية للشرير وضربات بالغة مخادع البطن",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "قلب الملك في يد الرب كجداول مياه حيثما شاء يميله.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "كل طرق الانسان مستقيمة في عينيه والرب وازن القلوب.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "فعل العدل والحق افضل عند الرب من الذبيحة.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "طموح العينين وانتفاخ القلب نور الاشرار خطية.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "افكار المجتهد انما هي للخصب وكل عجول انما هو للعوز.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "جمع الكنوز بلسان كاذب هو بخار مطرود لطالبي الموت.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "اغتصاب الاشرار يجرفهم لانهم ابوا اجراء العدل.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "طريق رجل موزور هي ملتوية. اما الزكي فعمله مستقيم.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "السكنى في زاوية السطح خير من امرأة مخاصمة وبيت مشترك.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "نفس الشرير تشتهي الشر. قريبه لا يجد نعمة في عينيه.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "بمعاقبة المستهزئ يصير الاحمق حكيما والحكيم بالارشاد يقبل معرفة",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "البار يتأمل بيت الشرير ويقلب الاشرار في الشر.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "من يسد اذنيه عن صراخ المسكين فهو ايضا يصرخ ولا يستجاب.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "الهدية في الخفاء تفثأ الغضب والرشوة في الحضن تفثأ السخط الشديد.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "اجراء الحق فرح للصدّيق والهلاك لفاعلي الاثم.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "الرجل الضال عن طريق المعرفة يسكن بين جماعة الأخيلة.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "محب الفرح انسان معوز. محب الخمر والدهن لا يستغني.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "الشرير فدية الصدّيق ومكان المستقيمين الغادر",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "السكنى في ارض برية خير من امرأة مخاصمة حردة.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "كنز مشتهى وزيت في بيت الحكيم اما الرجل الجاهل فيتلفه.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "التابع العدل والرحمة يجد حياة حظا وكرامة.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "الحكيم يتسور مدينة الجبابرة ويسقط قوة معتمدها.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "من يحفظ فمه ولسانه يحفظ من الضيقات نفسه.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "المنتفخ المتكبر اسمه مستهزئ عامل بفيضان الكبرياء.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "شهوة الكسلان تقتله لان يديه تأبيان الشغل.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "اليوم كله يشتهي شهوة. اما الصدّيق فيعطي ولا يمسك.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "ذبيحة الشرير مكرهة فكم بالحري حين يقدمها بغش.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "شاهد الزور يهلك والرجل السامع للحق يتكلم.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "الشرير يوقح وجهه. اما المستقيم فيثبّت طرقه.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "ليس حكمة ولا فطنة ولا مشورة تجاه الرب.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "الفرس معد ليوم الحرب. اما النصرة فمن الرب",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "الصيت افضل من الغنى العظيم والنعمة الصالحة افضل من الفضة والذهب.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "الغني والفقير يتلاقيان. صانعهما كليهما الرب.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "الذكي يبصر الشر فيتوارى والحمقى يعبرون فيعاقبون.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "ثواب التواضع ومخافة الرب هو غنى وكرامة وحياة.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "شوك وفخوخ في طريق الملتوي. من يحفظ نفسه يبتعد عنها.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "ربّ الولد في طريقه فمتى شاخ ايضا لا يحيد عنه.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "الغني يتسلط على الفقير والمقترض عبد للمقرض.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "الزارع اثما يحصد بليّة وعصا سخطه تفنى.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "الصالح العين هو يبارك لانه يعطي من خبزه للفقير",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "اطرد المستهزئ فيخرج الخصام ويبطل النزاع والخزي.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "من احب طهارة القلب فلنعمة شفتيه يكون الملك صديقه.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "عينا الرب تحفظان المعرفة وهو يقلب كلام الغادرين.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "قال الكسلان الاسد في الخارج فأقتل في الشواع.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "فم الاجنبيات هوّة عميقة. ممقوت الرب يسقط فيها.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "الجهالة مرتبطة بقلب الولد. عصا التأديب تبعدها عنه.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "ظالم الفقير تكثيرا لما له ومعطي الغني انما هما للعوز.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "امل اذنك واسمع كلام الحكماء ووجّه قلبك الى معرفتي.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "لانه حسن ان حفظتها في جوفك. ان تتثبت جميعا على شفتيك.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "ليكون اتكالك على الرب عرّفتك انت اليوم.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "ألم اكتب لك أمورا شريفة من جهة مؤامرة ومعرفة.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "لاعلمك قسط كلام الحق لترد جواب الحق للذين ارسلوك",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "لا تسلب الفقير لكونه فقيرا ولا تسحق المسكين في الباب.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "لان الرب يقيم دعواهم ويسلب سالبي انفسهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "لا تستصحب غضوبا ومع رجل ساخط لا تجئ",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "لئلا تألف طرقه وتاخذ شركا الى نفسك.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "لا تكن من صافقي الكف ولا من ضامني الديون.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "ان لم يكن لك ما تفي فلماذا يأخذ فراشك من تحتك.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "لا تنقل التخم القديم الذي وضعه آباؤك.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "أرأيت رجلا مجتهدا في عمله. امام الملوك يقف لا يقف امام الرعاع",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "اذا جلست تاكل مع متسلط فتامل ما هو امامك تاملا",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "وضع سكينا لحنجرتك ان كنت شرها.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "لا تشته اطايبه لانها خبز اكاذيب.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "لا تتعب لكي تصير غنيا. كف عن فطنتك.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "هل تطيّر عينيك نحوه وليس هو. لانه انما يصنع لنفسه اجنحة. كالنسر يطير نحو السماء",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "لا تأكل خبز ذي عين شريرة ولا تشته اطايبه.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "لانه كما شعر في نفسه هكذا هو. يقول لك كل واشرب وقلبه ليس معك.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "اللقمة التي اكلتها تتقيأها وتخسر كلماتك الحلوة.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "في اذني جاهل لا تتكلم لانه يحتقر حكمة كلامك.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "لا تنقل التخم القديم ولا تدخل حقول الايتام.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "لان وليهم قوي. هو يقيم دعواهم عليك",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "وجّه قلبك الى الادب واذنيك الى كلمات المعرفة.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "لا تمنع التأديب عن الولد لانك ان ضربته بعصا لا يموت.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "تضربه انت بعصا فتنقذ نفسه من الهاوية.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "يا ابني ان كان قلبك حكيما يفرح قلبي انا ايضا",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "وتبتهج كليتاي اذا تكلمت شفتاك بالمستقيمات.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "لا يحسدن قلبك الخاطئين بل كن في مخافة الرب اليوم كله.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "لانه لا بد من ثواب ورجاؤك لا يخيب.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "اسمع انت يا ابني وكن حكيما وارشد قلبك في الطريق.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "لا تكن بين شريبي الخمر بين المتلفين اجسادهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "لان السكير والمسرف يفتقران والنوم يكسو الخرق",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "اسمع لابيك الذي ولدك ولا تحتقر امك اذا شاخت.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "اقتن الحق ولا تبعه والحكمة والادب والفهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "ابو الصدّيق يبتهج ابتهاجا ومن ولد حكيما يسرّ به.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "يفرح ابوك وامك وتبتهج التي ولدتك.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "يا ابني اعطني قلبك ولتلاحظ عيناك طرقي.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "لان الزانية هوة عميقة والاجنبية حفرة ضيّقة.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "هي ايضا كلص تكمن وتزيد الغادرين بين الناس",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "لمن الويل لمن الشقاوة لمن المخاصمات لمن الكرب لمن الجروح بلا سبب لمن ازمهرار العينين.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "للذين يدمنون الخمر الذين يدخلون في طلب الشراب الممزوج.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "لا تنظر الى الخمر اذ احمرّت حين تظهر حبابها في الكاس وساغت مرقرقة.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "في الآخر تلسع كالحية وتلدغ كالافعوان.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "عيناك تنظران الاجنبيات وقلبك ينطق بأمور ملتوية.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "وتكون كمضطجع في قلب البحر او كمضطجع على راس سارية.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "يقول ضربوني ولم اتوجع. لقد لكأوني ولم اعرف. متى استيقظ. اعود اطلبها بعد",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "لا تحسد اهل الشر ولا تشته ان تكون معهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "لان قلبهم يلهج بالاغتصاب وشفاههم تتكلم بالمشقة",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "بالحكمة يبنى البيت وبالفهم يثبت",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "وبالمعرفة تمتلئ المخادع من كل ثروة كريمة ونفيسة.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "الرجل الحكيم في عزّ وذو المعرفة متشدد القوة.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "لانك بالتدابير تعمل حربك والخلاص بكثرة المشيرين.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "الحكم عالية عن الاحمق. لا يفتح فمه في الباب.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "المفتكر في عمل الشر يدعى مفسدا.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "فكر الحماقة خطية. ومكرهة الناس المستهزئ.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "ان ارتخيت في يوم الضيق ضاقت قوتك.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "انقذ المنقادين الى الموت والممدودين للقتل. لا تمتنع.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "ان قلت هوذا لم نعرف هذا. أفلا يفهم وازن القلوب وحافظ نفسك ألا يعلم. فيرد على الانسان مثل عمله",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "يا ابني كل عسلا لانه طيب وقطر العسل حلو في حنكك.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "كذلك معرفة الحكمة لنفسك. اذا وجدتها فلا بد من ثواب ورجاؤك لا يخيب.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "لا تكمن ايها الشرير لمسكن الصدّيق. لا تخرب ربعه.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "لان الصدّيق يسقط سبع مرات ويقوم. اما الاشرار فيعثرون بالشر.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "لا تفرح بسقوط عدوك ولا يبتهج قلبك اذا عثر.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "لئلا يرى الرب ويسوء ذلك في عينيه فيرد عنه غضبه.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "لا تغر من الاشرار ولا تحسد الاثمة.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "لانه لا يكون ثواب للاشرار. سراج الاثمة ينطفئ.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "يا ابني اخش الرب والملك. لا تخالط المتقلبين.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "لان بليتهم تقوم بغتة ومن يعلم بلاءهما كليهما",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "هذه ايضا للحكماء---محاباة الوجوه في الحكم ليست صالحة.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "من يقول للشرير انت صدّيق تسبّه العامة. تلعنه الشعوب.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "اما الذين يؤدبون فينعمون وبركة خير تأتي عليهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "تقبّل شفتا من يجاوب بكلام مستقيم.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "هيّئ عملك في الخارج واعدّه في حقلك. بعد تبني بيتك.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "لا تكن شاهدا على قريبك بلا سبب. فهل تخادع بشفتيك.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "لا تقل كما فعل بي هكذا افعل به. ارد على الانسان مثل عمله",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "عبرت بحقل الكسلان وبكرم الرجل الناقص الفهم",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "فاذا هو قد علاه كله القريص وقد غطى العوسج وجهه وجدار حجارته انهدم.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "ثم نظرت ووجهت قلبي. رأيت وقبلت تعليما.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "نوم قليل بعد نعاس قليل وطي اليدين قليلا للرقود",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "فيأتي فقرك كعدّاء وعوزك كغاز",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "هذه ايضا امثال سليمان التي نقلها رجال حزقيا ملك يهوذا",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "مجد الله اخفاء الامر ومجد الملوك فحص الامر.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "السماء للعلو والارض للعمق وقلوب الملوك لا تفحص.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "ازل الزغل من الفضة فيخرج اناء للصائغ.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "ازل الشرير من قدام الملك فيثبت كرسيه بالعدل.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "لا تتفاخر امام الملك ولا تقف في مكان العظماء.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "لانه خير ان يقال لك ارتفع الى هنا من ان تحط في حضرة الرئيس الذي رأته عيناك.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "لا تبرز عاجلا الى الخصام لئلا تفعل شيئا في الآخر حين يخزيك قريبك.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "اقم دعواك مع قريبك ولا تبح بسر غيرك",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "لئلا يعيّرك السامع فلا تنصرف فضيحتك.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "تفاح من ذهب في مصوغ من فضة كلمة مقولة في محلها.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "قرط من ذهب وحلي من ابريز الموبخ الحكيم لاذن سامعة.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "كبرد الثلج في يوم الحصاد الرسول الامين لمرسليه لانه يرد نفس سادته.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "سحاب وريح بلا مطر الرجل المفتخر بهدية كذب",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "ببطء الغضب يقنع الرئيس واللسان الليّن يكسر العظم.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "أوجدت عسلا فكل كفايتك لئلا تتخم فتتقيأه.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "اجعل رجلك عزيزة في بيت قريبك لئلا يمل منك فيبغضك.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "مقمعة وسيف وسهم حاد الرجل المجيب قريبه بشهادة زور.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "سن مهتومة ورجل مخلّعة الثقة بالخائن في يوم الضيق.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "كنزع الثوب في يوم البرد كخل على نطرون من يغني اغاني لقلب كئيب.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "ان جاع عدوك فاطعمه خبزا وان عطش فاسقه ماء",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "فانك تجمع جمرا على راسه والرب يجازيك.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "ريح الشمال تطرد المطر والوجه المعبس يطرد لسانا ثالبا.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "السكنى في زاوية السطح خير من امرأة مخاصمة في بيت مشترك.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "مياه باردة لنفس عطشانة الخبر الطيب من ارض بعيدة.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "عين مكدرة وينبوع فاسد الصدّيق المنحني امام الشرير.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "اكل كثير من العسل ليس بحسن وطلب الناس مجد انفسهم ثقيل.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "مدينة منهدمة بلا سور الرجل الذي ليس له سلطان على روحه",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "كالثلج في الصيف وكالمطر في الحصاد هكذا الكرامة غير لائقة بالجاهل.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "كالعصفور للفرار وكالسنونة للطيران كذلك لعنة بلا سبب لا تأتي.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "السوط للفرس واللجام للحمار والعصا لظهر الجهال.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "لا تجاوب الجاهل حسب حماقته لئلا تعدله انت.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "جاوب الجاهل حسب حماقته لئلا يكون حكيما في عيني نفسه.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "يقطع الرجلين يشرب ظلما من يرسل كلاما عن يد جاهل.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "ساقا الاعرج متدلدلتان وكذا المثل في فم الجهال.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "كصرّة حجارة كريمة في رجمة هكذا المعطي كرامة للجاهل.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "شوك مرتفع بيد سكران مثل المثل في فم الجهال.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "رام يطعن الكل هكذا من يستأجر الجاهل او يستأجر المحتالين.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "كما يعود الكلب الى قيئه هكذا الجاهل يعيد حماقته.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "أرأيت رجلا حكيما في عيني نفسه. الرجاء بالجاهل اكثر من الرجاء به",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "قال الكسلان الاسد في الطريق الشبل في الشوارع.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "الباب يدور على صائره والكسلان على فراشه.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "الكسلان يخفي يده في الصحفة ويشق عليه ان يردها الى فمه.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "الكسلان اوفر حكمة في عيني نفسه من السبعة المجيبين بعقل.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "كممسك اذني كلب هكذا من يعبر ويتعرض لمشاجرة لا تعنيه.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "مثل المجنون الذي يرمي نارا وسهاما وموتا",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "هكذا الرجل الخادع قريبه ويقول ألم العب انا.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "بعدم الحطب تنطفئ النار وحيث لا نمّام يهدأ الخصام.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "فحم للجمر وحطب للنار هكذا الرجل المخاصم لتهييج النزاع.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "كلام النمّام مثل لقم حلوة فينزل الى مخادع البطن",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "فضة زغل تغشّي شقفة هكذا الشفتان المتوقدتان والقلب الشرير.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "بشفتيه يتنكر المبغض وفي جوفه يضع غشا.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "اذا حسّن صوته فلا تأتمنه. لان في قلبه سبع رجاسات.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "من يغطي بغضة بمكر يكشف خبثه بين الجماعة.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "من يحفر حفرة يسقط فيها ومن يدحرج حجرا يرجع عليه.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "اللسان الكاذب يبغض منسحقيه والفم الملق يعدّ خرابا",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "لا تفتخر بالغد لانك لا تعلم ماذا يلده يوم.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ليمدحك الغريب لا فمك. الاجنبي لا شفتاك.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "الحجر ثقيل والرمل ثقيل وغضب الجاهل اثقل منهما كليهما.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "الغضب قساوة والسخط جراف ومن يقف قدام الحسد.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "التوبيخ الظاهر خير من الحب المستتر.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "امينة هي جروح المحب وغاشة هي قبلات العدو.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "النفس الشبعانة تدوس العسل وللنفس الجائعة كل مر حلو.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "مثل العصفور التائه من عشه هكذا الرجل التائه من مكانه.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "الدهن والبخور يفرحان القلب وحلاوة الصديق من مشورة النفس.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "لا تترك صديقك وصديق ابيك ولا تدخل بيت اخيك في يوم بليتك. الجار القريب خير من الاخ البعيد",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "يا ابني كن حكيما وفرّح قلبي فاجيب من يعيّرني كلمة.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "الذكي يبصر الشر فيتوارى. الاغبياء يعبرون فيعاقبون.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "خذ ثوبه لانه ضمن غريبا ولاجل الاجانب ارتهن منه.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "من يبارك قريبه بصوت عال في الصباح باكرا يحسب له لعنا.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "الوكف المتتابع في يوم ممطر والمرأة المخاصمة سيّان.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "من يخبئها يخبئ الريح ويمينه تقبض على زيت.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "الحديد بالحديد يحدّد والانسان يحدّد وجه صاحبه.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "من يحمي تينة ياكل ثمرتها وحافظ سيده يكرم.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "كما في الماء الوجه للوجه كذلك قلب الانسان للانسان.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "الهاوية والهلاك لا يشبعان وكذا عينا الانسان لا تشبعان.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "البوطة للفضة والكور للذهب كذا الانسان لفم مادحه.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "ان دققت الاحمق في هاون بين السميذ بمدقّ لا تبرح عنه حماقته.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "معرفة اعرف حال غنمك واجعل قلبك الى قطعانك.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "لان الغنى ليس بدائم ولا التاج لدور فدور.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "فني الحشيش وظهر العشب واجتمع نبات الجبال.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "الحملان للباسك وثمن حقل اعتدة.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "وكفاية من لبن المعز لطعامك لقوت بيتك ومعيشة فتاياتك",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "الشرير يهرب ولا طارد اما الصدّيقون فكشبل ثبيت.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "لمعصية ارض تكثر رؤساؤها. لكن بذي فهم ومعرفة تدوم.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "الرجل الفقير الذي يظلم فقراء هو مطر جارف لا يبقي طعاما.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "تاركو الشريعة يمدحون الاشرار وحافظو الشريعة يخاصمونهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "الناس الاشرار لا يفهمون الحق وطالبو الرب يفهمون كل شيء.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "الفقير السالك باستقامته خير من معوج الطرق وهو غني.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "الحافظ الشريعة هو ابن فهيم وصاحب المسرفين يخجل اباه.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "المكثر ماله بالربا والمرابحة فلمن يرحم الفقراء يجمعه.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "من يحول اذنه عن سماع الشريعة فصلاته ايضا مكرهة",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "من يضل المستقيمين في طريق رديئة ففي حفرته يسقط هو. اما الكملة فيمتلكون خيرا.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "الرجل الغني حكيم في عيني نفسه والفقير الفهيم يفحصه.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "اذا فرح الصدّيقون عظم الفخر وعند قيام الاشرار تختفي الناس.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "من يكتم خطاياه لا ينجح ومن يقرّ بها ويتركها يرحم.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "طوبى للانسان المتقي دائما. اما المقسي قلبه فيسقط في الشر.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "اسد زائر ودب ثائر المتسلط الشرير على شعب فقير.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "رئيس ناقص الفهم وكثير المظالم. مبغض الرشوة تطول ايامه",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "الرجل المثقّل بدم نفس يهرب الى الجب. لا يمسكنه احد.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "السالك بالكمال يخلص والملتوي في طريقين يسقط في احداهما.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "المشتغل بارضه يشبع خبزا وتابع البطّالين يشبع فقرا.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "الرجل الامين كثير البركات والمستعجل الى الغنى لا يبرأ.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "محاباة الوجوه ليست صالحة فيذنب الانسان لاجل كسرة خبز.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "ذو العين الشريرة يعجل الى الغنى ولا يعلم ان الفقر ياتيه.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "من يوبخ انسانا يجد اخيرا نعمة اكثر من المطري باللسان.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "السالب اباه او امه وهو يقول لا بأس فهو رفيق لرجل مخرب.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "المنتفخ النفس يهيج الخصام والمتكل على الرب يسمن.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "المتكل على قلبه هو جاهل والسالك بحكمة هو ينجو.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "من يعطي الفقير لا يحتاج ولمن يحجب عنه عينيه لعنات كثيرة.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "عند قيام الاشرار تختبئ الناس. وبهلاكهم يكثر الصدّيقون",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "الكثير التوبّخ المقسي عنقه بغتة يكسر ولا شفاء.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "اذا ساد الصدّيقون فرح الشعب واذا تسلط الشرير يئن الشعب.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "من يحب الحكمة يفرّح اباه ورفيق الزواني يبدد مالا.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "الملك بالعدل يثبت الارض والقابل الهدايا يدمرها.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "الرجل الذي يطري صاحبه يبسط شبكة لرجليه.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "في معصية رجل شرير شرك اما الصدّيق فيترنم ويفرح.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "الصدّيق يعرف دعوى الفقراء. اما الشرير فلا يفهم معرفة.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "الناس المستهزئون يفتنون المدينة. اما الحكماء فيصرفون الغضب.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "رجل حكيم ان حاكم رجلا احمق فان غضب وان ضحك فلا راحة.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "اهل الدماء يبغضون الكامل. اما المستقيمون فيسألون عن نفسه.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "الجاهل يظهر كل غيظه والحكيم يسكنه اخيرا",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "الحاكم المصغي الى كلام كذب كل خدامه اشرار.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "الفقير والمربي يتلاقيان. الرب ينوّر اعين كليهما.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "الملك الحاكم بالحق للفقراء يثبت كرسيه الى الابد.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "العصا والتوبيخ يعطيان حكمة والصبي المطلق الى هواه يخجل امه.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "اذا ساد الاشرار كثرت المعاصي. اما الصدّيقون فينظرون سقوطهم.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "ادّب ابنك فيريحك ويعطي نفسك لذّات.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "بلا رؤية يجمح الشعب. اما حافظ الشريعة فطوباه.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "بالكلام لا يؤدب العبد لانه يفهم ولا يعنى.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "أرأيت انسان عجولا في كلامه. الرجاء بالجاهل اكثر من الرجاء به.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "من فنّق عبده من حداثته ففي آخرته يصير منونا.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "الرجل الغضوب يهيج الخصام والرجل السخوط كثير المعاصي.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "كبرياء الانسان تضعه والوضيع الروح ينال مجدا.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "من يقاسم سارقا يبغض نفسه. يسمع اللعن ولا يقرّ.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "خشية الانسان تضع شركا والمتكل على الرب يرفع.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "كثيرون يطلبون وجه المتسلط. اما حق الانسان فمن الرب.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "الرجل الظالم مكرهة الصدّيقين والمستقيم الطريق مكرهة الشرير",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "كلام اجور ابن متقية مسّا. وحي هذا الرجل الى ايثيئيل. الى ايثيئيل وأكّال",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "اني ابلد من كل انسان وليس لي فهم انسان.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "ولم اتعلّم الحكمة ولم اعرف معرفة القدوس.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "من صعد الى السموات ونزل. من جمع الريح في حفنتيه. من صرّ المياه في ثوب. من ثبت جميع اطراف الارض. ما اسمه وما اسم ابنه ان عرفت.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "كل كلمة من الله نقية. ترس هو للمحتمين به.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "لا تزد على كلماته لئلا يوبخك فتكذّب",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "اثنتين سألت منك فلا تمنعهما عني قبل ان اموت.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "ابعد عني الباطل والكذب. لا تعطني فقرا ولا غنى. اطعمني خبز فريضتي.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "لئلا اشبع واكفر واقول من هو الرب. او لئلا افتقر واسرق واتخذ اسم الهي باطلا",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "لا تشك عبدا الى سيده لئلا يلعنك فتأثم.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "جيل يلعن اباه ولا يبارك امه.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "جيل طاهر في عيني نفسه وهو لم يغتسل من قذره.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "جيل ما ارفع عينيه وحواجبه مرتفعة.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "جيل اسنانه سيوف واضراسه سكاكين لأكل المساكين عن الارض والفقراء من بين الناس",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "للعلوقة بنتان هات هات. ثلاثة لا تشبع. اربعة لا تقول كفا",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "الهاوية والرحم العقيم وارض لا تشبع ماء والنار لا تقول كفا",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "العين المستهزئة بابيها والمحتقرة اطاعة امها تقوّرها غربان الوادي وتأكلها فراخ النسر",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "ثلاثة عجيبة فوقي واربعة لا اعرفها.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "طريق نسر في السموات وطريق حيّة على صخر وطريق سفينة في قلب البحر وطريق رجل بفتاة.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "كذلك طريق المرأة الزانية. اكلت ومسحت فمها وقالت ما عملت اثما",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "تحت ثلاثة تضطرب الارض واربعة لا تستطيع احتمالها.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "تحت عبد اذا ملك واحمق اذا شبع خبزا",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "تحت شنيعة اذا تزوجت وأمة اذا ورثت سيدتها",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "اربعة هي الاصغر في الارض ولكنها حكيمة جدا.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "النمل طائفة غير قوية ولكنه يعدّ طعامه في الصيف.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "الوبار طائفة ضعيفة ولكنها تضع بيوتها في الصخر.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "الجراد ليس له ملك ولكنه يخرج كله فرقا فرقا.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "العنكبوت تمسك بيديها وهي في قصور الملوك",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "ثلاثة هي حسنة التخطي واربعة مشيها مستحسن",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "الاسد جبار الوحوش ولا يرجع من قدام احد",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "ضامر الشاكلة والتيس والملك الذي لا يقاوم",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "ان حمقت بالترفع وان تآمرت فضع يدك على فمك.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "لان عصر اللبن يخرج جبنا وعصر الانف يخرج دما وعصر الغضب يخرج خصاما",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "كلام لموئيل ملك مسّا. علّمته اياه امه.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ماذا يا ابني ثم ماذا يا ابن رحمي ثم ماذا يا ابن نذوري ـــ",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "لا تعطي حيلك للنساء ولا طرقك لمهلكات الملوك.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "ليس للملوك يا لموئيل ليس للملوك ان يشربوا خمرا ولا للعظماء المسكر.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "لئلا يشربوا وينسوا المفروض ويغيّروا حجة كل بني المذلة.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "اعطوا مسكرا لهالك وخمرا لمرّي النفس.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "يشرب وينسى فقره ولا يذكر تعبه بعد",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "افتح فمك لاجل الاخرس في دعوى كل يتيم.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "افتح فمك. اقض بالعدل وحام عن الفقير والمسكين",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "امرأة فاضلة من يجدها لان ثمنها يفوق اللآلئ.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "بها يثق قلب زوجها فلا يحتاج الى غنيمة.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "تصنع له خيرا لا شرا كل ايام حياتها.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "تطلب صوفا وكتانا وتشتغل بيدين راضيتين.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "هي كسفن التاجر. تجلب طعامها من بعيد.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "وتقوم اذ الليل بعد وتعطي اكلا لاهل بيتها وفريضة لفتياتها.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "تتأمل حقلا فتأخذه وبثمر يديها تغرس كرما.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "تنطّق حقويها بالقوة وتشدد ذراعيها.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "تشعر ان تجارتها جيدة. سراجها لا ينطفئ في الليل.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "تمد يديها الى المغزل وتمسك كفّاها بالفلكة.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "تبسط كفيها للفقير وتمد يديها الى المسكين.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "لا تخشى على بيتها من الثلج لان كل اهل بيتها لابسون حللا.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "تعمل لنفسها موشيات. لبسها بوص وارجوان.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "زوجها معروف في الابواب حين يجلس بين مشايخ الارض.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "تصنع قمصانا وتبيعها وتعرض مناطق على الكنعاني.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "العزّ والبهاء لباسها وتضحك على الزمن الآتي.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "تفتح فمها بالحكمة وفي لسانها سنّة المعروف.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "تراقب طرق اهل بيتها ولا تأكل خبز الكسل.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "يقوم اولادها ويطوّبونها. زوجها ايضا فيمدحها.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "بنات كثيرات عملن فضلا اما انت ففقت عليهنّ جميعا.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "الحسن غش والجمال باطل. اما المرأة المتقية الرب فهي تمدح.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "اعطوها من ثمر يديها ولتمدحها اعمالها في الابواب",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
