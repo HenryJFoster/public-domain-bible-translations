@@ -1,0 +1,571 @@
+{
+  "book": "1 Thessalonians",
+  "abbreviation": "1Thess",
+  "number": 52,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Paul and Sylvanus and Timothy to the church of the Thessalonians: in God the Father and in the Lord Jesus Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Grace be to you and peace. We give thanks to God always for you all: making a remembrance of you in our prayers without ceasing,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Being mindful of the work of your faith and labour and charity: and of the enduring of the hope of our Lord Jesus Christ before God and our Father.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Knowing, brethren, beloved of God, your election:",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "For our gospel hath not been unto you in word only, but in power also: and in the Holy Ghost and in much fulness, as you know what manner of men we have been among you for your sakes.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "And you became followers of us and of the Lord: receiving the word in much tribulation, with joy of the Holy Ghost:",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "So that you were made a pattern to all that believe in Macedonia and in Achaia.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "For from you was spread abroad the word of the Lord not only in Macedonia and in Achaia but also in every place: your faith which is towards God, is gone forth, so that we need not to speak any thing.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "For they themselves relate of us, what manner of entering in we had unto you: and how you turned to God from idols to serve the living and true God.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "And to wait for his Son from heaven (whom he raised up from the dead), Jesus, who hath delivered us from the wrath to come.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "For yourselves know, brethren, our entrance in unto you, that it was not in vain:",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "But having suffered many things before and been shamefully treated, (as you know) at Philippi, we had confidence in our God, to speak unto you the gospel of God in much carefulness.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "For our exhortation was not of error, nor of uncleanness, nor in deceit.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "But as we were approved by God that the gospel should be committed to us: even so we speak, not as pleasing men but God, who proveth our hearts.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "For neither have we used at any time the speech of flattery, as you know: nor taken an occasion of covetousness (God is witness):",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Nor sought we glory of men, neither of you, nor of others.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Whereas we might have been burdensome to you, as the apostles of Christ: but we became little ones in the midst of you, as if a nurse should cherish her children:",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "So desirous of you, we would gladly impart unto you not only the gospel of God but also our own souls: because you were become most dear unto us.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "For you remember, brethren, our labour and toil: working night and day, lest we should be chargeable to any of you, we preached among you the gospel of God.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "You are witnesses, and God also, how holily and justly and without blame we have been to you that have believed:",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "As you know in what manner, entreating and comforting you (as a father doth his children),",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "We testified to every one of you that you would walk worthy of God, who hath called you unto his kingdom and glory.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Therefore, we also give thanks to God without ceasing: because, that when you had received of us the word of the hearing of God, you received it not as the word of men, but (as it is indeed) the word of God, who worketh in you that have believed.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "For you, brethren, are become followers of the churches of God which are in Judea, in Christ Jesus: for you also have suffered the same things from your own countrymen, even as they have from the Jews:",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Who both killed the Lord Jesus, and the prophets, and have persecuted us, and please not God, and are adversaries to all men;",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Prohibiting us to speak to the Gentiles, that they may be saved, to fill up their sins always: for the wrath of God is come upon them to the end.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "But we, brethren, being taken away from you for a short time, in sight, not in heart, have hastened the more abundantly to see your face with great desire.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "For we would have come unto you, I Paul indeed, once and again: but Satan hath hindered us.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "For what is our hope or joy or crown of glory? Are not you, in the presence of our Lord Jesus Christ at his coming?",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "For you are our glory and joy.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "For which cause, forbearing no longer, we thought it good to remain at Athens alone.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "And we sent Timothy, our brother and the minister of God in the gospel of Christ, to confirm you and exhort you concerning your faith:",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "That no man should be moved in these tribulations: for yourselves know that we are appointed thereunto.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "For even when we were with you, we foretold you that we should suffer tribulations: as also it is come to pass, and you know.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "For this cause also, I, forbearing no longer, sent to know your faith: lest perhaps he that tempteth should have tempted you: and our labour should be made vain.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "But now when Timothy came to us from you and related to us your faith and charity, and that you have a good remembrance of us always, desiring to see us as we also to see you:",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Therefore we were comforted, brethren, in you, in all our necessity and tribulation, by your faith.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Because now we live, if you stand in the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "For what thanks can we return to God for you, in all the joy wherewith we rejoice for you before our God,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Night and day more abundantly praying that we may see your face and may accomplish those things that are wanting to your faith?",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Now God himself and our Father and our Lord Jesus Christ, direct our way unto you.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "And may the Lord multiply you and make you abound in charity towards one another and towards all men: as we do also towards you,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "To confirm your hearts without blame, in holiness, before God and our Father, at the coming of our Lord Jesus Christ, with all his saints. Amen.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "For the rest therefore, brethren, pray and beseech you in the Lord Jesus that, as you have received from us, how you ought to walk and to please God, so also you would walk, that you may abound the more.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "For you know what precepts I have given to you by the Lord Jesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "For this is the will of God, your sanctification: That you should abstain from fornication:",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "That every one of you should know how to possess his vessel in sanctification and honour,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Not in the passion of lust, like the Gentiles that know not God:",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "And that no man overreach nor circumvent his brother in business: because the Lord is the avenger of all these things, as we have told you before and have testified.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "For God hath not called us unto uncleanness, but unto sanctification.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Therefore, he that despiseth these things, despiseth not man, but God, who also hath given his holy Spirit in us.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "But as touching the charity of brotherhood, we have no need to write to you: for yourselves have learned of God to love one another.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "For indeed you do it towards all the brethren in all Macedonia. But we entreat you, brethren, that you abound more:",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "And that you use your endeavour to be quiet: and that you do your own business and work with your own hands, as we commanded you: and that you walk honestly towards them that are without: and that you want nothing of any man's.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "And we will not have you ignorant brethren, concerning them that are asleep, that you be not sorrowful, even as others who have no hope.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "For if we believe that Jesus died and rose again: even so them who have slept through Jesus, will God bring with him.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "For this we say unto you in the word of the Lord, that we who are alive, who remain unto the coming of the Lord, shall not prevent them who have slept.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "For the Lord himself shall come down from heaven with commandment and with the voice of an archangel and with the trumpet of God: and the dead who are in Christ shall rise first.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Then we who are alive, who are left, shall be taken up together with them in the clouds to meet Christ, into the air: and so shall we be always with the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Wherefore, comfort ye one another with these words.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "But of the times and moments, brethren, you need not, that we should write to you:",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "For yourselves know perfectly that the day of the Lord shall so come as a thief in the night.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "For when they shall say: Peace and security; then shall sudden destruction come upon them, as the pains upon her that is with child, and they shall not escape.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "But you, brethren, are not in darkness, that the day should overtake you as a thief.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "For all you are the children of light and children of the day: we are not of the night nor of darkness.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Therefore, let us not sleep, as others do: but let us watch, and be sober.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "For they that sleep, sleep in the night; and they that are drunk, are drunk in the night.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "But let us, who are of the day, be sober, having on the breast plate of faith and charity and, for a helmet, the hope of salvation.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "For God hath not appointed us unto wrath: but unto the purchasing of salvation by our Lord Jesus Christ,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Who died for us: that, whether we watch or sleep, we may live together with him.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "For which cause comfort one another and edify one another, as you also do.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "And we beseech you, brethren, to know them who labour among you and are over you in the Lord and admonish you;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "That you esteem them more abundantly in charity, for their work's sake. Have peace with them.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "And we beseech you, brethren, rebuke the unquiet: comfort the feeble minded: support the weak: be patient towards all men.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "See that none render evil for evil to any man: but ever follow that which is good towards each other and towards all men.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Always rejoice.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Pray without ceasing.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "In all things give thanks for this is the will of God in Christ Jesus concerning you all.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Extinguish not the spirit.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Despise not prophecies.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "But prove all things: hold fast that which is good.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "From all appearance of evil refrain yourselves.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "And may the God of peace himself sanctify you in all things: that your whole spirit and soul and body may be preserved blameless in the coming of our Lord Jesus Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "He is faithful who hath called you, who also will do it.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Brethren, pray for us.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Salute all the brethren with a holy kiss.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "I charge you by the Lord that this epistle be read to all the holy brethren.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "The grace of our Lord Jesus Christ be with you. Amen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
