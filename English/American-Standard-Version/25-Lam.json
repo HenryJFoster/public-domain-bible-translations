@@ -1,0 +1,967 @@
+{
+  "book": "Lamentations",
+  "abbreviation": "Lam",
+  "number": 25,
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "How doth the city sit solitary, that was full of people! She is become as a widow, that was great among the nations! She that was a princess among the provinces is become tributary!",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "She weepeth sore in the night, and her tears are on her cheeks; Among all her lovers she hath none to comfort her: All her friends have dealt treacherously with her; they are become her enemies.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Judah is gone into captivity because of affliction, and because of great servitude; She dwelleth among the nations, she findeth no rest: All her persecutors overtook her within the straits.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "The ways of Zion do mourn, because none come to the solemn assembly; All her gates are desolate, her priests do sigh: Her virgins are afflicted, and she herself is in bitterness.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Her adversaries are become the head, her enemies prosper; For Jehovah hath afflicted her for the multitude of her transgressions: Her young children are gone into captivity before the adversary.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "And from the daughter of Zion all her majesty is departed: Her princes are become like harts that find no pasture, And they are gone without strength before the pursuer.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Jerusalem remembereth in the days of her affliction and of her miseries all her pleasant things that were from the days of old: When her people fell into the hand of the adversary, and none did help her, The adversaries saw her, they did mock at her desolations.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Jerusalem hath grievously sinned; therefore she is become as an unclean thing; All that honored her despise her, because they have seen her nakedness: Yea, she sigheth, and turneth backward.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Her filthiness was in her skirts; she remembered not her latter end; Therefore is she come down wonderfully; she hath no comforter: Behold, O Jehovah, my affliction; for the enemy hath magnified himself.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "The adversary hath spread out his hand upon all her pleasant things: For she hath seen that the nations are entered into her sanctuary, Concerning whom thou didst command that they should not enter into thine assembly.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "All her people sigh, they seek bread; They have given their pleasant things for food to refresh the soul: See, O Jehovah, and behold; for I am become abject.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Is it nothing to you, all ye that pass by? Behold, and see if there be any sorrow like unto my sorrow, which is brought upon me, Wherewith Jehovah hath afflicted [me] in the day of his fierce anger.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "From on high hath he sent fire into my bones, and it prevaileth against them; He hath spread a net for my feet, he hath turned me back: He hath made me desolate and faint all the day.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "The yoke of my transgressions is bound by his hand; They are knit together, they are come up upon my neck; he hath made my strength to fail: The Lord hath delivered me into their hands, against whom I am not able to stand.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "The Lord hath set at nought all my mighty men in the midst of me; He hath called a solemn assembly against me to crush my young men: The Lord hath trodden as in a winepress the virgin daughter of Judah.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "For these things I weep; mine eye, mine eye runneth down with water; Because the comforter that should refresh my soul is far from me: My children are desolate, because the enemy hath prevailed.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Zion spreadeth forth her hands; there is none to comfort her; Jehovah hath commanded concerning Jacob, that they that are round about him should be his adversaries: Jerusalem is among them as an unclean thing.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Jehovah is righteous; for I have rebelled against his commandment: Hear, I pray you, all ye peoples, and behold my sorrow: My virgins and my young men are gone into captivity.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "I called for my lovers, [but] they deceived me: My priests and mine elders gave up the ghost in the city, While they sought them food to refresh their souls.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Behold, O Jehovah; for I am in distress; my heart is troubled; My heart is turned within me; for I have grievously rebelled: Abroad the sword bereaveth, at home there is as death.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "They have heard that I sigh; there is none to comfort me; All mine enemies have heard of my trouble; they are glad that thou hast done it: Thou wilt bring the day that thou hast proclaimed, and they shall be like unto me.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Let all their wickedness come before thee; And do unto them, as thou hast done unto me for all my transgressions: For my sighs are many, and my heart is faint.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "How hath the Lord covered the daughter of Zion with a cloud in his anger! He hath cast down from heaven unto the earth the beauty of Israel, And hath not remembered his footstool in the day of his anger.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "The Lord hath swallowed up all the habitations of Jacob, and hath not pitied: He hath thrown down in his wrath the strongholds of the daughter of Judah; He hath brought them down to the ground; he hath profaned the kingdom and the princes thereof.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "He hath cut off in fierce anger all the horn of Israel; He hath drawn back his right hand from before the enemy: And he hath burned up Jacob like a flaming fire, which devoureth round about.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "He hath bent his bow like an enemy, he hath stood with his right hand as an adversary, And hath slain all that were pleasant to the eye: In the tent of the daughter of Zion he hath poured out his wrath like fire.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "The Lord is become as an enemy, he hath swallowed up Israel; He hath swallowed up all her palaces, he hath destroyed his strongholds; And he hath multiplied in the daughter of Judah mourning and lamentation.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "And he hath violently taken away his tabernacle, as if it were of a garden; he hath destroyed his place of assembly: Jehovah hath caused solemn assembly and sabbath to be forgotten in Zion, And hath despised in the indignation of his anger the king and the priest.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "The Lord hath cast off his altar, he hath abhorred his sanctuary; He hath given up into the hand of the enemy the walls of her palaces: They have made a noise in the house of Jehovah, as in the day of a solemn assembly.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Jehovah hath purposed to destroy the wall of the daughter of Zion; He hath stretched out the line, he hath not withdrawn his hand from destroying; And he hath made the rampart and wall to lament; they languish together.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Her gates are sunk into the ground; he hath destroyed and broken her bars: Her king and her princes are among the nations where the law is not; Yea, her prophets find no vision from Jehovah.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "The elders of the daughter of Zion sit upon the ground, they keep silence; They have cast up dust upon their heads; they have girded themselves with sackcloth: The virgins of Jerusalem hang down their heads to the ground.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Mine eyes do fail with tears, my heart is troubled; My liver is poured upon the earth, because of the destruction of the daughter of my people, Because the young children and the sucklings swoon in the streets of the city.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "They say to their mothers, Where is grain and wine? When they swoon as the wounded in the streets of the city, When their soul is poured out into their mothers` bosom.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "What shall I testify unto thee? what shall I liken to thee, O daughter of Jerusalem? What shall I compare to thee, that I may comfort thee, O virgin daughter of Zion? For thy breach is great like the sea: who can heal thee?",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Thy prophets have seen for thee false and foolish visions; And they have not uncovered thine iniquity, to bring back thy captivity, But have seen for thee false oracles and causes of banishment.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "All that pass by clap their hands at thee; They hiss and wag their head at the daughter of Jerusalem, [saying], Is this the city that men called The perfection of beauty, The joy of the whole earth?",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "All thine enemies have opened their mouth wide against thee; They hiss and gnash the teeth; they say, We have swallowed her up; Certainly this is the day that we looked for; we have found, we have seen it.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Jehovah hath done that which he purposed; he hath fulfilled his word that he commanded in the days of old; He hath thrown down, and hath not pitied: And he hath caused the enemy to rejoice over thee; he hath exalted the horn of thine adversaries.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Their heart cried unto the Lord: O wall of the daughter of Zion, let tears run down like a river day and night; Give thyself no respite; let not the apple of thine eye cease.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Arise, cry out in the night, at the beginning of the watches; Pour out thy heart like water before the face of the Lord: Lift up thy hands toward him for the life of thy young children, that faint for hunger at the head of every street.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "See, O Jehovah, and behold to whom thou hast done thus! Shall the women eat their fruit, the children that are dandled in the hands? Shall the priest and the prophet be slain in the sanctuary of the Lord?",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "The youth and the old man lie on the ground in the streets; My virgins and my young men are fallen by the sword: Thou hast slain them in the day of thine anger; thou hast slaughtered, [and] not pitied.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Thou hast called, as in the day of a solemn assembly, my terrors on every side; And there was none that escaped or remained in the day of Jehovah`s anger: Those that I have dandled and brought up hath mine enemy consumed.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "I am the man that hath seen affliction by the rod of his wrath.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "He hath led me and caused me to walk in darkness, and not in light.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Surely against me he turneth his hand again and again all the day.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "My flesh and my skin hath he made old; he hath broken my bones.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "He hath builded against me, and compassed me with gall and travail.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "He hath made me to dwell in dark places, as those that have been long dead.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "He hath walled me about, that I cannot go forth; he hath made my chain heavy.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Yea, when I cry, and call for help, he shutteth out my prayer.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "He hath walled up my ways with hewn stone; he hath made my paths crooked.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "He is unto me as a bear lying in wait, as a lion in secret places.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "He hath turned aside my ways, and pulled me in pieces; he hath made me desolate.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "He hath bent his bow, and set me as a mark for the arrow.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "He hath caused the shafts of his quiver to enter into my reins.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "I am become a derision to all my people, and their song all the day.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "He hath filled me with bitterness, he hath sated me with wormwood.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "He hath also broken my teeth with gravel stones; he hath covered me with ashes.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "And thou hast removed my soul far off from peace; I forgat prosperity.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "And I said, My strength is perished, and mine expectation from Jehovah.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Remember mine affliction and my misery, the wormwood and the gall.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "My soul hath them still in remembrance, and is bowed down within me.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "This I recall to my mind; therefore have I hope.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "[It is of] Jehovah`s lovingkindnesses that we are not consumed, because his compassions fail not.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "They are new every morning; great is thy faithfulness.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Jehovah is my portion, saith my soul; therefore will I hope in him.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Jehovah is good unto them that wait for him, to the soul that seeketh him.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "It is good that a man should hope and quietly wait for the salvation of Jehovah.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "It is good for a man that he bear the yoke in his youth.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Let him sit alone and keep silence, because he hath laid it upon him.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Let him put his mouth in the dust, if so be there may be hope.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Let him give his cheek to him that smiteth him; let him be filled full with reproach.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "For the Lord will not cast off for ever.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "For though he cause grief, yet will he have compassion according to the multitude of his lovingkindnesses.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "For he doth not afflict willingly, nor grieve the children of men.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "To crush under foot all the prisoners of the earth,",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "To turn aside the right of a man before the face of the Most High,",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "To subvert a man in his cause, the Lord approveth not.",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "Who is he that saith, and it cometh to pass, when the Lord commandeth it not?",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "Out of the mouth of the Most High cometh there not evil and good?",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "Wherefore doth a living man complain, a man for the punishment of his sins?",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "Let us search and try our ways, and turn again to Jehovah.",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "Let us lift up our heart with our hands unto God in the heavens.",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "We have transgressed and have rebelled; thou hast not pardoned.",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "Thou hast covered with anger and pursued us; thou hast slain, thou hast not pitied.",
+          "footnotes": []
+        },
+        {
+          "verse": 44,
+          "heading": null,
+          "text": "Thou hast covered thyself with a cloud, so that no prayer can pass through.",
+          "footnotes": []
+        },
+        {
+          "verse": 45,
+          "heading": null,
+          "text": "Thou hast made us an off-scouring and refuse in the midst of the peoples.",
+          "footnotes": []
+        },
+        {
+          "verse": 46,
+          "heading": null,
+          "text": "All our enemies have opened their mouth wide against us.",
+          "footnotes": []
+        },
+        {
+          "verse": 47,
+          "heading": null,
+          "text": "Fear and the pit are come upon us, devastation and destruction.",
+          "footnotes": []
+        },
+        {
+          "verse": 48,
+          "heading": null,
+          "text": "Mine eye runneth down with streams of water, for the destruction of the daughter of my people.",
+          "footnotes": []
+        },
+        {
+          "verse": 49,
+          "heading": null,
+          "text": "Mine eye poureth down, and ceaseth not, without any intermission,",
+          "footnotes": []
+        },
+        {
+          "verse": 50,
+          "heading": null,
+          "text": "Till Jehovah look down, and behold from heaven.",
+          "footnotes": []
+        },
+        {
+          "verse": 51,
+          "heading": null,
+          "text": "Mine eye affecteth my soul, because of all the daughters of my city.",
+          "footnotes": []
+        },
+        {
+          "verse": 52,
+          "heading": null,
+          "text": "They have chased me sore like a bird, they that are mine enemies without cause.",
+          "footnotes": []
+        },
+        {
+          "verse": 53,
+          "heading": null,
+          "text": "They have cut off my life in the dungeon, and have cast a stone upon me.",
+          "footnotes": []
+        },
+        {
+          "verse": 54,
+          "heading": null,
+          "text": "Waters flowed over my head; I said, I am cut off.",
+          "footnotes": []
+        },
+        {
+          "verse": 55,
+          "heading": null,
+          "text": "I called upon thy name, O Jehovah, out of the lowest dungeon.",
+          "footnotes": []
+        },
+        {
+          "verse": 56,
+          "heading": null,
+          "text": "Thou heardest my voice; hide not thine ear at my breathing, at my cry.",
+          "footnotes": []
+        },
+        {
+          "verse": 57,
+          "heading": null,
+          "text": "Thou drewest near in the day that I called upon thee; thou saidst, Fear not.",
+          "footnotes": []
+        },
+        {
+          "verse": 58,
+          "heading": null,
+          "text": "O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life.",
+          "footnotes": []
+        },
+        {
+          "verse": 59,
+          "heading": null,
+          "text": "O Jehovah, thou hast seen my wrong; judge thou my cause.",
+          "footnotes": []
+        },
+        {
+          "verse": 60,
+          "heading": null,
+          "text": "Thou hast seen all their vengeance and all their devices against me.",
+          "footnotes": []
+        },
+        {
+          "verse": 61,
+          "heading": null,
+          "text": "Thou hast heard their reproach, O Jehovah, and all their devices against me,",
+          "footnotes": []
+        },
+        {
+          "verse": 62,
+          "heading": null,
+          "text": "The lips of those that rose up against me, and their device against me all the day.",
+          "footnotes": []
+        },
+        {
+          "verse": 63,
+          "heading": null,
+          "text": "Behold thou their sitting down, and their rising up; I am their song.",
+          "footnotes": []
+        },
+        {
+          "verse": 64,
+          "heading": null,
+          "text": "Thou wilt render unto them a recompense, O Jehovah, according to the work of their hands.",
+          "footnotes": []
+        },
+        {
+          "verse": 65,
+          "heading": null,
+          "text": "Thou wilt give them hardness of heart, thy curse unto them.",
+          "footnotes": []
+        },
+        {
+          "verse": 66,
+          "heading": null,
+          "text": "Thou wilt pursue them in anger, and destroy them from under the heavens of Jehovah.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "How is the gold become dim! [how] is the most pure gold changed! The stones of the sanctuary are poured out at the head of every street.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "The precious sons of Zion, comparable to fine gold, How are they esteemed as earthen pitchers, the work of the hands of the potter!",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Even the jackals draw out the breast, they give suck to their young ones: The daughter of my people is become cruel, like the ostriches in the wilderness.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "The tongue of the sucking child cleaveth to the roof of his mouth for thirst: The young children ask bread, and no man breaketh it unto them.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "They that did feed delicately are desolate in the streets: They that were brought up in scarlet embrace dunghills.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "For the iniquity of the daughter of my people is greater than the sin of Sodom, That was overthrown as in a moment, and no hands were laid upon her.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Her nobles were purer than snow, they were whiter than milk; They were more ruddy in body than rubies, their polishing was as of sapphire.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Their visage is blacker than a coal; they are not known in the streets: Their skin cleaveth to their bones; it is withered, it is become like a stick.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "They that are slain with the sword are better than they that are slain with hunger; For these pine away, stricken through, for want of the fruits of the field.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "The hands of the pitiful women have boiled their own children; They were their food in the destruction of the daughter of my people.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Jehovah hath accomplished his wrath, he hath poured out his fierce anger; And he hath kindled a fire in Zion, which hath devoured the foundations thereof.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "The kings of the earth believed not, neither all the inhabitants of the world, That the adversary and the enemy would enter into the gates of Jerusalem.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "[It is] because of the sins of her prophets, [and] the iniquities of her priests, That have shed the blood of the just in the midst of her.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "They wander as blind men in the streets, they are polluted with blood, So that men cannot touch their garments.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Depart ye, they cried unto them, Unclean! depart, depart, touch not! When they fled away and wandered, men said among the nations, They shall no more sojourn [here].",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "The anger of Jehovah hath scattered them; he will no more regard them: They respected not the persons of the priests, they favored not the elders.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Our eyes do yet fail [in looking] for our vain help: In our watching we have watched for a nation that could not save.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "They hunt our steps, so that we cannot go in our streets: Our end is near, our days are fulfilled; for our end is come.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Our pursuers were swifter than the eagles of the heavens: They chased us upon the mountains, they laid wait for us in the wilderness.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "The breath of our nostrils, the anointed of Jehovah, was taken in their pits; Of whom we said, Under his shadow we shall live among the nations.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz: The cup shall pass through unto thee also; thou shalt be drunken, and shalt make thyself naked.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "The punishment of thine iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity: He will visit thine iniquity, O daughter of Edom; he will uncover thy sins.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Remember, O Jehovah, what is come upon us: Behold, and see our reproach.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Our inheritance is turned unto strangers, Our houses unto aliens.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "We are orphans and fatherless; Our mothers are as widows.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "We have drunken our water for money; Our wood is sold unto us.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Our pursuers are upon our necks: We are weary, and have no rest.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "We have given the hand to the Egyptians, And to the Assyrians, to be satisfied with bread.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Our fathers sinned, and are not; And we have borne their iniquities.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Servants rule over us: There is none to deliver us out of their hand.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "We get our bread at the peril of our lives, Because of the sword of the wilderness.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Our skin is black like an oven, Because of the burning heat of famine.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "They ravished the women in Zion, The virgins in the cities of Judah.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Princes were hanged up by their hand: The faces of elders were not honored.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "The young men bare the mill; And the children stumbled under the wood.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "The elders have ceased from the gate, The young men from their music.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "The joy of our heart is ceased; Our dance is turned into mourning.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "The crown is fallen from our head: Woe unto us! for we have sinned.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "For this our heart is faint; For these things our eyes are dim;",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "For the mountain of Zion, which is desolate: The foxes walk upon it.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Thou, O Jehovah, abidest for ever; Thy throne is from generation to generation.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Wherefore dost thou forget us for ever, [And] forsake us so long time?",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Turn thou us unto thee, O Jehovah, and we shall be turned; Renew our days as of old.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "But thou hast utterly rejected us; Thou art very wroth against us.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
